@@ -1,6 +1,8 @@
-# Aurora 27 届视觉组暑训考核 — 任务一：整车考核
+# 任务一：整车考核
 
-## 项目概述
+> Aurora 27 届视觉组暑训考核 — 整车串口通讯、标定、YOLO 检测、云台跟踪
+
+> **任务二（桌面小云台）见 [task2 分支](https://github.com/52216165/-/tree/task2)**
 基于同济开源自瞄 [sp_vision_25](https://github.com/TongjiSuperPower/sp_vision_25/) 适配 Ubuntu 24.04，完成整车串口通讯、相机标定、YOLO 目标检测、云台跟踪与击打。
 
 ## 环境配置
