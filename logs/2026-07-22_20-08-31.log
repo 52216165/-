@@ -1,0 +1,61 @@
+[2026-07-22 20:08:31.764] [info] [DesktopGimbal] Opening gimbal serial...
+[2026-07-22 20:08:31.764] [warning] [Gimbal] Configured com_port '/dev/gimbal' not found, fallback to '/dev/ttyUSB0'.
+[2026-07-22 20:08:31.866] [info] [Gimbal] read_thread started.
+[2026-07-22 20:08:31.866] [info] [Gimbal] Auto-detected frame size: 25 bytes
+[2026-07-22 20:08:31.866] [warning] [Gimbal] Tail check failed: got [0xeb 0x09], expected [0x7f 0xfe]
+[2026-07-22 20:08:31.866] [warning] [Gimbal] Frame (25 bytes): 5a a5 00 ee ec 7c 3f f0 a5 9e ba ba 99 c8 3d 1b e9 d5 bd f6 c4 32 c2 eb 09
+[2026-07-22 20:08:31.866] [info] [Gimbal] Auto-detected frame size: 43 bytes
+[2026-07-22 20:08:31.866] [warning] [Gimbal] Tail check failed: got [0xec 0xd5], expected [0x7f 0xfe]
+[2026-07-22 20:08:31.866] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 d7 ec 7c 3f a1 46 a0 ba 37 9e c8 3d e7 eb d5 bd f6 c4 32 c2 2b 2c 5a a5 00 d9 ec 7c 3f 74 58 a1 ba 39 9d c8 3d 7e ec d5
+[2026-07-22 20:08:31.866] [info] [Gimbal] First q received.
+[2026-07-22 20:08:31.866] [info] [DesktopGimbal] Opening camera...
+[2026-07-22 20:08:31.872] [warning] [Gimbal] Tail check failed: got [0xe4 0xd5], expected [0x7f 0xfe]
+[2026-07-22 20:08:31.872] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 b5 ec 7c 3f be 31 a1 ba 81 ac c8 3d 8f e8 d5 bd f6 c4 32 c2 15 f6 5a a5 00 d1 ec 7c 3f 3b 94 a0 ba 03 a8 c8 3d 9a e4 d5
+[2026-07-22 20:08:31.878] [warning] [Gimbal] Tail check failed: got [0xf0 0xd5], expected [0x7f 0xfe]
+[2026-07-22 20:08:31.878] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 9b ec 7c 3f 0d 1b 9e ba 74 b2 c8 3d 30 eb d5 bd f6 c4 32 c2 eb 29 5a a5 00 a6 ec 7c 3f b5 e7 9d ba 37 a9 c8 3d 50 f0 d5
+[2026-07-22 20:08:31.883] [warning] [Gimbal] Tail check failed: got [0xec 0xd5], expected [0x7f 0xfe]
+[2026-07-22 20:08:31.883] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 c5 ec 7c 3f 1a b1 9e ba 75 ae c8 3d 47 e2 d5 bd f6 c4 32 c2 eb 09 5a a5 00 ab ec 7c 3f 5b 83 9f ba fe ab c8 3d 31 ec d5
+[2026-07-22 20:08:31.889] [warning] [Gimbal] Tail check failed: got [0xe2 0xd5], expected [0x7f 0xfe]
+[2026-07-22 20:08:31.889] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 e1 ec 7c 3f ca b1 9e ba 84 9f c8 3d ed e7 d5 bd f6 c4 32 c2 d6 13 5a a5 00 ef ec 7c 3f 4f 43 9e ba 30 a1 c8 3d 39 e2 d5
+[2026-07-22 20:08:31.895] [warning] [Gimbal] Tail check failed: got [0xeb 0xd5], expected [0x7f 0xfe]
+[2026-07-22 20:08:31.895] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 a7 ec 7c 3f ee 60 9f ba 8a ad c8 3d eb eb d5 bd f6 c4 32 c2 58 4f 5a a5 00 a4 ec 7c 3f f5 f7 9e ba 8c ae c8 3d b1 eb d5
+[2026-07-22 20:08:31.901] [warning] [Gimbal] Tail check failed: got [0xee 0xd5], expected [0x7f 0xfe]
+[2026-07-22 20:08:31.901] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 86 ec 7c 3f 84 4a 9e ba b0 b2 c8 3d 1f f1 d5 bd f6 c4 32 c2 58 4f 5a a5 00 89 ec 7c 3f 50 5b 9e ba 9d b4 c8 3d 7a ee d5
+[2026-07-22 20:08:31.906] [warning] [Gimbal] Tail check failed: got [0xec 0xd5], expected [0x7f 0xfe]
+[2026-07-22 20:08:31.906] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 9a ec 7c 3f 23 4d 9d ba 24 af c8 3d 10 ee d5 bd f6 f1 32 c2 eb c9 5a a5 00 ad ec 7c 3f 52 11 9e ba 7f aa c8 3d ed ec d5
+[2026-07-22 20:08:31.912] [warning] [Gimbal] Tail check failed: got [0xdf 0xd5], expected [0x7f 0xfe]
+[2026-07-22 20:08:31.912] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 ec ec 7c 3f d5 c8 9d ba f6 a7 c8 3d 2a dd d5 bd f6 c4 32 c2 16 d6 5a a5 00 df ec 7c 3f c7 ca 9d ba f6 a8 c8 3d ad df d5
+[2026-07-22 20:08:31.918] [warning] [Gimbal] Tail check failed: got [0xdd 0xd5], expected [0x7f 0xfe]
+[2026-07-22 20:08:31.918] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 df ec 7c 3f 33 ec 9c ba e2 a3 c8 3d 82 e4 d5 bd f6 c4 32 c2 ac a7 5a a5 00 ef ec 7c 3f 0e c5 9c ba 8b a6 c8 3d 01 dd d5
+[2026-07-22 20:08:31.924] [warning] [Gimbal] Tail check failed: got [0xe9 0xd5], expected [0x7f 0xfe]
+[2026-07-22 20:08:31.924] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 c3 ec 7c 3f 6e 75 9b ba 1d a9 c8 3d c3 e7 d5 bd f6 c4 32 c2 ac a7 5a a5 00 b7 ec 7c 3f 51 0b 9b ba b6 aa c8 3d d7 e9 d5
+[2026-07-22 20:08:31.930] [warning] [Gimbal] Tail check failed: got [0xec 0xd5], expected [0x7f 0xfe]
+[2026-07-22 20:08:31.930] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 d5 ec 7c 3f 57 1b 9a ba 09 a4 c8 3d 7f e7 d5 bd f6 c4 32 c2 58 4f 5a a5 00 c7 ec 7c 3f 86 d9 99 ba bc a2 c8 3d d5 ec d5
+[2026-07-22 20:08:31.935] [warning] [Gimbal] Tail check failed: got [0xf3 0xd5], expected [0x7f 0xfe]
+[2026-07-22 20:08:31.935] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 99 ec 7c 3f a7 fb 99 ba 91 aa c8 3d 2e f3 d5 bd f6 c4 32 c2 2b 6c 5a a5 00 91 ec 7c 3f f3 b2 98 ba ab ac c8 3d c6 f3 d5
+[2026-07-22 20:08:31.941] [warning] [Gimbal] Tail check failed: got [0xf9 0xd5], expected [0x7f 0xfe]
+[2026-07-22 20:08:31.941] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 82 ec 7c 3f 22 1b 97 ba 26 b3 c8 3d 04 f2 d5 bd f6 c4 32 c2 15 56 5a a5 00 62 ec 7c 3f 82 41 98 ba 12 b5 c8 3d 53 f9 d5
+[2026-07-22 20:08:31.947] [warning] [Gimbal] Tail check failed: got [0xf3 0xd5], expected [0x7f 0xfe]
+[2026-07-22 20:08:31.947] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 84 ec 7c 3f d0 a3 98 ba 93 af c8 3d 81 f4 d5 bd f6 f1 32 c2 eb c9 5a a5 00 8a ec 7c 3f 17 06 98 ba 26 af c8 3d 18 f3 d5
+[2026-07-22 20:08:31.953] [warning] [Gimbal] Tail check failed: got [0xf7 0xd5], expected [0x7f 0xfe]
+[2026-07-22 20:08:31.953] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 57 ec 7c 3f 26 c9 97 ba b1 b5 c8 3d 1b fc d5 bd f6 c4 32 c2 eb 09 5a a5 00 63 ec 7c 3f e6 e7 96 ba ab b6 c8 3d e3 f7 d5
+[2026-07-22 20:08:31.959] [warning] [Gimbal] Tail check failed: got [0x03 0xd6], expected [0x7f 0xfe]
+[2026-07-22 20:08:31.959] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 3c ec 7c 3f f5 db 96 ba da b6 c8 3d 6b 03 d6 bd f6 c4 32 c2 af 9e 5a a5 00 3e ec 7c 3f b9 f1 95 ba 61 b5 c8 3d c0 03 d6
+[2026-07-22 20:08:31.964] [warning] [Gimbal] Tail check failed: got [0x0a 0xd6], expected [0x7f 0xfe]
+[2026-07-22 20:08:31.964] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 1d ec 7c 3f 69 09 96 ba 95 b4 c8 3d 93 0e d6 bd f6 c4 32 c2 f5 64 5a a5 00 15 ec 7c 3f 0d 78 94 ba 6e bb c8 3d cd 0a d6
+[2026-07-22 20:08:31.970] [warning] [Gimbal] Tail check failed: got [0x12 0xd6], expected [0x7f 0xfe]
+[2026-07-22 20:08:31.970] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 ee eb 7c 3f 9c 19 95 ba 3d c2 c8 3d ae 0f d6 bd f6 c4 32 c2 f6 14 5a a5 00 e4 eb 7c 3f 53 20 96 ba 10 c2 c8 3d 96 12 d6
+[2026-07-22 20:08:31.976] [warning] [Gimbal] Tail check failed: got [0x12 0xd6], expected [0x7f 0xfe]
+[2026-07-22 20:08:31.976] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 08 ec 7c 3f 11 6e 96 ba d9 b8 c8 3d 99 10 d6 bd f6 c4 32 c2 2b 6c 5a a5 00 fd eb 7c 3f d1 c7 96 ba 5b ba c8 3d d3 12 d6
+[2026-07-22 20:08:31.981] [warning] [Gimbal] Tail check failed: got [0x18 0xd6], expected [0x7f 0xfe]
+[2026-07-22 20:08:31.981] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 20 ec 7c 3f af 33 96 ba de b0 c8 3d ab 10 d6 bd f6 c4 32 c2 55 d8 5a a5 00 ff eb 7c 3f 1e eb 94 ba a1 b3 c8 3d 62 18 d6
+[2026-07-22 20:08:31.993] [warning] [Gimbal] Tail check failed: got [0x19 0xd6], expected [0x7f 0xfe]
+[2026-07-22 20:08:31.993] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 d8 eb 7c 3f 66 3f 94 ba b1 b7 c8 3d 4b 20 d6 bd f6 c4 32 c2 8e 0a 5a a5 00 e0 eb 7c 3f 6e e1 94 ba b7 bb c8 3d d2 19 d6
+[2026-07-22 20:08:32.002] [warning] [Gimbal] Tail check failed: got [0x1f 0xd6], expected [0x7f 0xfe]
+[2026-07-22 20:08:32.002] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 c9 eb 7c 3f f9 c7 93 ba d8 ba c8 3d c2 21 d6 bd f6 c4 32 c2 eb a9 5a a5 00 d6 eb 7c 3f 85 e0 93 ba 8f b9 c8 3d 2b 1f d6
+[2026-07-22 20:08:32.013] [warning] [Gimbal] Tail check failed: got [0x1b 0xd6], expected [0x7f 0xfe]
+[2026-07-22 20:08:32.013] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 f1 eb 7c 3f 30 d7 92 ba b9 b6 c8 3d 7c 19 d6 bd f6 c4 32 c2 eb 89 5a a5 00 db eb 7c 3f b7 52 92 ba e9 bb c8 3d 81 1b d6
+[2026-07-22 20:08:32.022] [warning] [Gimbal] Tail check failed: got [0x20 0xd6], expected [0x7f 0xfe]
+[2026-07-22 20:08:32.022] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 c8 eb 7c 3f 51 27 92 ba 54 c1 c8 3d d9 1b d6 bd f6 c4 32 c2 15 f6 5a a5 00 be eb 7c 3f c6 80 92 ba 7f bf c8 3d 97 20 d6
+[2026-07-22 20:08:32.033] [warning] [Gimbal] Tail check failed: got [0x25 0xd6], expected [0x7f 0xfe]
+[2026-07-22 20:08:32.033] [warning] [Gimbal] Frame (43 bytes): 5a a5 00 b4 eb 7c 3f fa 67 92 ba 1c c3 c8 3d e6 1f d6 bd f6 c4 32 c2 eb 29 5a a5 00 b1 eb 7c 3f 69 b4 91 ba c6 be c8 3d 27 25 d6

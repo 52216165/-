@@ -1,0 +1,9 @@
+[2026-07-22 21:50:51.572] [info] [DesktopGimbal] Opening gimbal serial...
+[2026-07-22 21:50:51.572] [warning] [Gimbal] Configured com_port '/dev/gimbal' not found, fallback to '/dev/ttyUSB0'.
+[2026-07-22 21:50:51.674] [info] [Gimbal] read_thread started.
+[2026-07-22 21:50:51.675] [info] [Gimbal] First q received.
+[2026-07-22 21:50:51.675] [info] [DesktopGimbal] Opening camera...
+[2026-07-22 21:50:52.574] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:50:52.939] [info] [YOLO26N] model=assets/yolo26n.xml, device=CPU
+[2026-07-22 21:50:53.238] [info] [MultiThreadDetector] initialized !
+[2026-07-22 21:50:53.239] [info] [DesktopGimbal] Entering main loop.

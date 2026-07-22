@@ -1,0 +1,10 @@
+[2026-07-22 21:16:56.137] [warning] [DesktopGimbal] NO-GIMBAL mode: visual detection only.
+[2026-07-22 21:16:56.137] [info] [DesktopGimbal] Opening camera...
+[2026-07-22 21:16:58.132] [info] [MultiThreadDetector] initialized !
+[2026-07-22 21:16:58.134] [info] [DesktopGimbal] Entering main loop.
+[2026-07-22 21:16:58.593] [debug] [Aimer] Unsolvable trajectory0: 15.00 3493.22 -1444.17
+[2026-07-22 21:16:58.644] [debug] [Aimer] Unsolvable trajectory0: 15.00 3431.02 -1418.46
+[2026-07-22 21:16:58.798] [debug] [Aimer] Unsolvable trajectory0: 15.00 3452.85 -1427.48
+[2026-07-22 21:16:58.817] [debug] [Target] r=-12.046, l=0.000
+[2026-07-22 21:16:58.817] [debug] [Tracker] Target diverged!
+[2026-07-22 21:16:59.489] [warning] Empty id list!

@@ -1,0 +1,8 @@
+[2026-07-22 22:41:12.373] [warning] [Gimbal] Configured com_port '/dev/gimbal' not found, fallback to '/dev/ttyUSB0'.
+[2026-07-22 22:41:12.475] [info] [Gimbal] read_thread started.
+[2026-07-22 22:41:12.475] [info] [Gimbal] First q received.
+[2026-07-22 22:41:12.475] [info] [DesktopGimbal] Opening camera...
+[2026-07-22 22:41:13.381] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 22:41:13.734] [info] [YOLO26N] model=assets/ore_model.xml, device=CPU
+[2026-07-22 22:41:14.023] [info] [MultiThreadDetector] initialized !
+[2026-07-22 22:41:14.024] [info] [DesktopGimbal] Entering main loop.

@@ -1,0 +1,20 @@
+[2026-07-06 18:15:41.737] [warning] [Gimbal] Configured com_port '/dev/gimbal' not found, fallback to '/dev/ttyUSB0'.
+[2026-07-06 18:15:41.837] [info] [Gimbal] read_thread started.
+[2026-07-06 18:15:42.843] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:15:43.848] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:15:44.851] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:15:45.852] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:15:46.855] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:15:47.858] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:15:48.859] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:15:49.862] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:15:50.864] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:15:51.866] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:15:52.867] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:15:53.867] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:15:54.873] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:15:55.880] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:15:56.885] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:15:57.889] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:15:58.891] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:15:59.892] [warning] [Gimbal] No serial data for extended period, triggering reconnect

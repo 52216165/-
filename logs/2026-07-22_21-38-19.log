@@ -1,0 +1,5 @@
+[2026-07-22 21:38:19.421] [warning] [DesktopGimbal] NO-GIMBAL mode: visual only.
+[2026-07-22 21:38:19.421] [info] [DesktopGimbal] Opening camera...
+[2026-07-22 21:38:20.684] [info] [YOLO26N] model=assets/yolo26n.xml, device=CPU
+[2026-07-22 21:38:20.961] [info] [MultiThreadDetector] initialized !
+[2026-07-22 21:38:20.962] [info] [DesktopGimbal] Entering main loop.

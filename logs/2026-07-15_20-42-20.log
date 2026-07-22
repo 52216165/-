@@ -1,0 +1,18 @@
+[2026-07-15 20:42:20.044] [info] [Gimbal] read_thread started.
+[2026-07-15 20:42:20.044] [info] [Gimbal] First q received.
+[2026-07-15 20:42:20.747] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-15 20:42:21.548] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-15 20:42:22.346] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-15 20:42:23.146] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-15 20:42:23.947] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-15 20:42:24.748] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-15 20:42:25.546] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-15 20:42:26.346] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-15 20:42:27.147] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-15 20:42:27.948] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-15 20:42:28.746] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-15 20:42:29.546] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-15 20:42:30.347] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-15 20:42:31.148] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-15 20:42:31.945] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-15 20:42:32.625] [info] [Gimbal] read_thread stopped.

@@ -1,0 +1,6 @@
+[2026-07-22 21:29:04.298] [info] [DesktopGimbal] Opening gimbal serial...
+[2026-07-22 21:29:04.299] [warning] [Gimbal] Configured com_port '/dev/gimbal' not found, fallback to '/dev/ttyUSB0'.
+[2026-07-22 21:29:04.399] [info] [Gimbal] read_thread started.
+[2026-07-22 21:29:04.418] [info] [Gimbal] First q received.
+[2026-07-22 21:29:04.418] [info] [DesktopGimbal] Opening camera...
+[2026-07-22 21:29:04.448] [warning] [Gimbal] Invalid mode: 116

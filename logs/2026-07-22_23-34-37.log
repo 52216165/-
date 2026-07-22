@@ -1,0 +1,201 @@
+[2026-07-22 23:34:37.376] [warning] [Gimbal] Configured com_port '/dev/gimbal' not found, fallback to '/dev/ttyUSB0'.
+[2026-07-22 23:34:37.477] [info] [Gimbal] read_thread started.
+[2026-07-22 23:34:37.478] [info] [Gimbal] First q received.
+[2026-07-22 23:34:38.377] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:34:38.745] [info] [SimpleTracker] Entering main loop.
+[2026-07-22 23:34:38.808] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:38.946] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:38.959] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:39.006] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:39.073] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:39.139] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:39.206] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:39.273] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:39.309] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:34:39.339] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:39.406] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:39.473] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:39.539] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:39.606] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:39.672] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:39.740] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:39.807] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:39.873] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:39.939] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:40.006] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:40.073] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:40.139] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:40.160] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:34:40.206] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:40.272] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:40.339] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:40.406] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:40.473] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:40.539] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:40.606] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:40.673] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:40.739] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:40.806] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:40.873] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:40.939] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:40.999] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:34:41.006] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:41.073] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:41.139] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:41.206] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:41.272] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:41.339] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:41.406] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:41.473] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:41.540] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:41.606] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:41.673] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:41.739] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:41.806] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:41.847] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:34:41.872] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:41.939] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:42.006] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:42.072] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:42.139] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:42.206] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:42.273] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:42.339] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:42.406] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:42.473] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:42.486] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 23:34:42.539] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:42.606] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:42.673] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:42.690] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:34:42.740] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:42.806] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:42.873] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:42.939] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:43.006] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:43.073] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:43.139] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:43.206] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:43.273] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:43.339] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:43.406] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:43.473] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:43.527] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:34:43.539] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:43.606] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:43.673] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:43.739] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:43.806] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:43.872] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:43.939] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:44.006] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:44.072] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:44.139] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:44.206] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:44.272] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:44.339] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:44.365] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:34:44.406] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:44.472] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:44.539] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:44.606] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:44.673] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:44.739] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:44.806] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:44.873] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:44.939] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:45.006] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:45.072] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:45.139] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:45.203] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:34:45.205] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:45.272] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:45.339] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:45.406] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:45.472] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:45.539] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:45.606] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:45.672] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:45.740] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:45.806] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:45.873] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:45.939] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:46.006] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:46.033] [info] [Gimbal] Diag: latency=0.02ms, serial_ok=yes
+[2026-07-22 23:34:46.072] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:46.139] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:46.205] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:46.272] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:46.339] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:46.405] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:46.472] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:46.539] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:46.606] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:46.672] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:46.739] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:46.806] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:46.872] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:46.879] [info] [Gimbal] Diag: latency=0.01ms, serial_ok=yes
+[2026-07-22 23:34:46.939] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:47.006] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:47.072] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:47.139] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:47.206] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:47.272] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:47.339] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:47.405] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:47.472] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:47.539] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:47.605] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:47.673] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:47.738] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:34:47.739] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:47.806] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:47.872] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:47.939] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:48.006] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:48.072] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:48.139] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:48.206] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:48.272] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:48.339] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:48.406] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:48.472] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:48.539] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:48.581] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:34:48.606] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:48.673] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:48.739] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:48.806] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:48.873] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:48.939] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:48.953] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 23:34:49.006] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:49.072] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:49.139] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:49.206] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:49.272] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:49.339] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:49.405] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:49.434] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:34:49.473] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:49.539] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:49.606] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:49.673] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:49.739] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:49.806] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:49.872] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:49.939] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:50.006] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:50.072] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:50.138] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:50.205] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:50.272] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:50.276] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:34:50.339] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:50.405] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:50.472] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:50.538] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:50.605] [warning] [SimpleTracker] Gimbal in IDLE mode, overriding to AUTO_AIM
+[2026-07-22 23:34:50.611] [info] [SimpleTracker] Shutdown.
+[2026-07-22 23:34:50.832] [info] [Gimbal] read_thread stopped.

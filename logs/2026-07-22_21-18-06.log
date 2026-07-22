@@ -1,0 +1,37 @@
+[2026-07-22 21:18:06.101] [info] [DesktopGimbal] Opening gimbal serial...
+[2026-07-22 21:18:06.102] [warning] [Gimbal] Configured com_port '/dev/gimbal' not found, fallback to '/dev/ttyUSB0'.
+[2026-07-22 21:18:06.203] [info] [Gimbal] read_thread started.
+[2026-07-22 21:18:06.203] [info] [Gimbal] First q received.
+[2026-07-22 21:18:06.203] [info] [DesktopGimbal] Opening camera...
+[2026-07-22 21:18:07.103] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:18:08.103] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:18:08.201] [info] [MultiThreadDetector] initialized !
+[2026-07-22 21:18:08.203] [info] [DesktopGimbal] Entering main loop.
+[2026-07-22 21:18:08.606] [debug] [Target] r=-136.011, l=0.000
+[2026-07-22 21:18:08.606] [debug] [Tracker] Target diverged!
+[2026-07-22 21:18:08.708] [debug] [Target] r=0.376, l=0.834
+[2026-07-22 21:18:08.708] [debug] [Tracker] Target diverged!
+[2026-07-22 21:18:08.779] [debug] [Aimer] Unsolvable trajectory0: 15.00 1667.69 1018.82
+[2026-07-22 21:18:09.042] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:18:09.881] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:18:10.463] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 21:18:10.716] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:18:11.551] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:18:11.651] [debug] [Target] r=60.664, l=0.000
+[2026-07-22 21:18:11.651] [debug] [Tracker] Target diverged!
+[2026-07-22 21:18:12.389] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:18:13.240] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:18:13.652] [debug] [Target] r=0.943, l=0.000
+[2026-07-22 21:18:13.652] [debug] [Tracker] Target diverged!
+[2026-07-22 21:18:14.079] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:18:14.295] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 21:18:14.929] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:18:15.262] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 21:18:15.779] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:18:15.796] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 21:18:16.624] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:18:17.472] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:18:18.313] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:18:19.144] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:18:19.999] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:18:20.834] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes

@@ -1,0 +1,39 @@
+[2026-07-22 23:48:57.111] [warning] [Gimbal] Configured com_port '/dev/gimbal' not found, fallback to '/dev/ttyUSB0'.
+[2026-07-22 23:48:57.211] [info] [Gimbal] read_thread started.
+[2026-07-22 23:48:57.212] [info] [Gimbal] First q received.
+[2026-07-22 23:48:58.112] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:48:58.469] [info] [SimpleTracker] Entering main loop.
+[2026-07-22 23:48:59.025] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:48:59.869] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:00.717] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:01.561] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:02.399] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:03.252] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:04.088] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:04.996] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:05.949] [info] [Gimbal] Diag: latency=0.01ms, serial_ok=yes
+[2026-07-22 23:49:06.791] [info] [Gimbal] Diag: latency=0.01ms, serial_ok=yes
+[2026-07-22 23:49:07.629] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:08.471] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:09.314] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:10.162] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:11.003] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:11.607] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 23:49:11.835] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:12.684] [info] [Gimbal] Diag: latency=0.02ms, serial_ok=yes
+[2026-07-22 23:49:12.877] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 23:49:13.520] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:14.337] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:15.312] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:16.312] [info] [Gimbal] Diag: latency=0.01ms, serial_ok=yes
+[2026-07-22 23:49:17.312] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:18.278] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:19.108] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:19.953] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:20.791] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:21.631] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:22.408] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 23:49:22.483] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:23.321] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 23:49:23.402] [info] [SimpleTracker] Shutdown.
+[2026-07-22 23:49:23.620] [info] [Gimbal] read_thread stopped.

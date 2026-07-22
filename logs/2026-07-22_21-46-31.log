@@ -1,0 +1,39 @@
+[2026-07-22 21:46:31.926] [info] [DesktopGimbal] Opening gimbal serial...
+[2026-07-22 21:46:31.926] [warning] [Gimbal] Configured com_port '/dev/gimbal' not found, fallback to '/dev/ttyUSB0'.
+[2026-07-22 21:46:32.028] [info] [Gimbal] read_thread started.
+[2026-07-22 21:46:32.029] [info] [Gimbal] First q received.
+[2026-07-22 21:46:32.029] [info] [DesktopGimbal] Opening camera...
+[2026-07-22 21:46:32.931] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:33.296] [info] [YOLO26N] model=assets/yolo26n.xml, device=CPU
+[2026-07-22 21:46:33.576] [info] [MultiThreadDetector] initialized !
+[2026-07-22 21:46:33.577] [info] [DesktopGimbal] Entering main loop.
+[2026-07-22 21:46:33.927] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:34.787] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:35.147] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 21:46:35.628] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:36.469] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:37.312] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:38.154] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:39.002] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:39.835] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:40.669] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:41.518] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:42.352] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:43.196] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:44.045] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:44.889] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:45.729] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:46.575] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:47.402] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:48.238] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:49.076] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:49.914] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:50.758] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:51.603] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:52.450] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:53.299] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:54.130] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:54.974] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:55.816] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:56.665] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 21:46:57.507] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes

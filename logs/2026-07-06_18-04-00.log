@@ -1,0 +1,14 @@
+[2026-07-06 18:04:00.293] [warning] [Gimbal] Configured com_port '/dev/gimbal' not found, fallback to '/dev/ttyUSB0'.
+[2026-07-06 18:04:00.397] [info] [Gimbal] read_thread started.
+[2026-07-06 18:04:01.406] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:04:02.412] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:04:03.418] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:04:04.423] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:04:05.429] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:04:06.434] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:04:07.444] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:04:08.449] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:04:09.451] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:04:10.458] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:04:11.472] [warning] [Gimbal] No serial data for extended period, triggering reconnect
+[2026-07-06 18:04:12.474] [warning] [Gimbal] No serial data for extended period, triggering reconnect

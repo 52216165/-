@@ -1,0 +1,51 @@
+[2026-07-22 20:09:11.617] [info] [DesktopGimbal] Opening gimbal serial...
+[2026-07-22 20:09:11.618] [warning] [Gimbal] Configured com_port '/dev/gimbal' not found, fallback to '/dev/ttyUSB0'.
+[2026-07-22 20:09:11.718] [info] [Gimbal] read_thread started.
+[2026-07-22 20:09:11.718] [info] [Gimbal] First q received.
+[2026-07-22 20:09:11.718] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6761181806196491639163664110696005632.000, yaw_vel=-0.000, pitch_vel=-0.000
+[2026-07-22 20:09:11.718] [info] [DesktopGimbal] Opening camera...
+[2026-07-22 20:09:11.722] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6761019546919662425800272532685717504.000, yaw_vel=-0.000, pitch_vel=-0.000
+[2026-07-22 20:09:11.728] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6765400547394051186611845138963496960.000, yaw_vel=-0.000, pitch_vel=-0.000
+[2026-07-22 20:09:11.733] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6764589251009905119794887248912056320.000, yaw_vel=-0.000, pitch_vel=-0.000
+[2026-07-22 20:09:11.739] [warning] [Gimbal] Data sanity check failed: yaw=-44.736, pitch=6767834436546489387062718809117818880.000, yaw_vel=-0.000, pitch_vel=-0.000
+[2026-07-22 20:09:11.745] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6766374103055026466792194607025225728.000, yaw_vel=-0.000, pitch_vel=-0.000
+[2026-07-22 20:09:11.751] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6766211843778197253428803029014937600.000, yaw_vel=-0.000, pitch_vel=-0.000
+[2026-07-22 20:09:11.757] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6771079622083073654330550369323581440.000, yaw_vel=-0.000, pitch_vel=-0.000
+[2026-07-22 20:09:11.762] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6769457029314781520696634589220700160.000, yaw_vel=-0.000, pitch_vel=-0.000
+[2026-07-22 20:09:11.768] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6767996695823318600426110387128107008.000, yaw_vel=-0.000, pitch_vel=-0.000
+[2026-07-22 20:09:11.774] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6770755103529415227603767213303005184.000, yaw_vel=-0.000, pitch_vel=-0.000
+[2026-07-22 20:09:11.780] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6771566399913561294420725103354445824.000, yaw_vel=-0.000, pitch_vel=-0.000
+[2026-07-22 20:09:11.786] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6766374103055026466792194607025225728.000, yaw_vel=-0.000, pitch_vel=7629132691144704.000
+[2026-07-22 20:09:11.791] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6763615695348929839614537780850327552.000, yaw_vel=-0.000, pitch_vel=74619384.000
+[2026-07-22 20:09:11.797] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6755664990784298384808350458346209280.000, yaw_vel=-0.000, pitch_vel=0.000
+[2026-07-22 20:09:11.803] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6754691435123323104628000990284480512.000, yaw_vel=-0.000, pitch_vel=13543.312
+[2026-07-22 20:09:11.808] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6756314027891615238261916770387361792.000, yaw_vel=-0.000, pitch_vel=0.000
+[2026-07-22 20:09:11.814] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6753717879462347824447651522222751744.000, yaw_vel=-0.000, pitch_vel=1.526
+[2026-07-22 20:09:11.820] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6759396954151370292166356752582836224.000, yaw_vel=-0.000, pitch_vel=1178038009359948054528.000
+[2026-07-22 20:09:11.826] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6748687841880642210182512603903819776.000, yaw_vel=-0.000, pitch_vel=440.260
+[2026-07-22 20:09:11.831] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6750959471756251197269994696047853568.000, yaw_vel=-0.000, pitch_vel=0.000
+[2026-07-22 20:09:11.840] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6751608508863568050723561008089006080.000, yaw_vel=-0.000, pitch_vel=0.004
+[2026-07-22 20:09:11.849] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6740899396592839968739716859409989632.000, yaw_vel=-0.000, pitch_vel=276427101647667200.000
+[2026-07-22 20:09:11.860] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6736680655395280421291535831142498304.000, yaw_vel=-0.000, pitch_vel=-0.000
+[2026-07-22 20:09:11.869] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6739601322378206261832584235327684608.000, yaw_vel=-0.000, pitch_vel=-0.000
+[2026-07-22 20:09:11.880] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6741223915146498395466500015430565888.000, yaw_vel=-0.000, pitch_vel=-0.000
+[2026-07-22 20:09:11.889] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6743982322852595022644156841605464064.000, yaw_vel=-0.000, pitch_vel=-0.000
+[2026-07-22 20:09:11.901] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6740412618762352328649542125379125248.000, yaw_vel=-0.000, pitch_vel=nan
+[2026-07-22 20:09:11.909] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6738465507440401768288843189255667712.000, yaw_vel=-0.000, pitch_vel=93643345630316391287573404712960.000
+[2026-07-22 20:09:11.921] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6731975136367233233753180068844142592.000, yaw_vel=-0.000, pitch_vel=0.000
+[2026-07-22 20:09:11.929] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6736680655395280421291535831142498304.000, yaw_vel=-0.000, pitch_vel=0.000
+[2026-07-22 20:09:11.941] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6735869359011134354474577941091057664.000, yaw_vel=-0.000, pitch_vel=0.009
+[2026-07-22 20:09:11.950] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6745442656344057942914681043698057216.000, yaw_vel=-0.000, pitch_vel=5785525554353069208109056.000
+[2026-07-22 20:09:11.958] [warning] [Gimbal] Data sanity check failed: yaw=-44.736, pitch=6743171026468448955827198951554023424.000, yaw_vel=-0.000, pitch_vel=467658277088334252915818496.000
+[2026-07-22 20:09:11.970] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6745280397067228729551289465687769088.000, yaw_vel=-0.000, pitch_vel=28890048925826633695232.000
+[2026-07-22 20:09:11.978] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6750959471756251197269994696047853568.000, yaw_vel=-0.000, pitch_vel=0.000
+[2026-07-22 20:09:11.990] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6751446249586738837360169430078717952.000, yaw_vel=-0.000, pitch_vel=0.000
+[2026-07-22 20:09:11.999] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6747227508389179289911988401811226624.000, yaw_vel=-0.000, pitch_vel=0.000
+[2026-07-22 20:09:12.010] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6740737137316010755376325281399701504.000, yaw_vel=-0.000, pitch_vel=0.000
+[2026-07-22 20:09:12.019] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6734409025519671434204053738998464512.000, yaw_vel=-0.000, pitch_vel=1888992565892854283501568.000
+[2026-07-22 20:09:12.030] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6730352543598941100119264288741261312.000, yaw_vel=-0.000, pitch_vel=0.000
+[2026-07-22 20:09:12.039] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6725160246740406272490733792412041216.000, yaw_vel=-0.000, pitch_vel=-2309984159143053670481920.000
+[2026-07-22 20:09:12.050] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6724997987463577059127342214401753088.000, yaw_vel=-0.000, pitch_vel=0.000
+[2026-07-22 20:09:12.059] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6723375394695284925493426434298871808.000, yaw_vel=-0.000, pitch_vel=0.000
+[2026-07-22 20:09:12.071] [warning] [Gimbal] Data sanity check failed: yaw=-44.692, pitch=6725484765294064699217516948432617472.000, yaw_vel=-0.000, pitch_vel=0.000
+[2026-07-22 20:09:12.079] [warning] [Gimbal] Data sanity check failed: yaw=-44.736, pitch=6723862172525772565583601168329736192.000, yaw_vel=-0.000, pitch_vel=11819565644867153495588864.000

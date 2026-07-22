@@ -1,0 +1,1262 @@
+[2026-07-22 20:10:29.162] [info] [DesktopGimbal] Opening gimbal serial...
+[2026-07-22 20:10:29.162] [warning] [Gimbal] Configured com_port '/dev/gimbal' not found, fallback to '/dev/ttyUSB0'.
+[2026-07-22 20:10:29.263] [info] [Gimbal] read_thread started.
+[2026-07-22 20:10:29.263] [info] [Gimbal] First q received.
+[2026-07-22 20:10:29.263] [info] [DesktopGimbal] Opening camera...
+[2026-07-22 20:10:30.163] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:31.107] [info] [MultiThreadDetector] initialized !
+[2026-07-22 20:10:31.109] [info] [DesktopGimbal] Entering main loop.
+[2026-07-22 20:10:31.163] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:31.289] [warning] [Gimbal] Data sanity check failed: yaw=402271170874025405353357808381198336.000 (max 180.0°)
+[2026-07-22 20:10:31.352] [warning] [Gimbal] Data sanity check failed: yaw=-8088053153312825434534051840.000 (max 180.0°)
+[2026-07-22 20:10:31.425] [warning] [Gimbal] Data sanity check failed: yaw=56179320385702188810240.000 (max 180.0°)
+[2026-07-22 20:10:31.485] [warning] [Gimbal] Data sanity check failed: yaw=-904193461794697516154880.000 (max 180.0°)
+[2026-07-22 20:10:31.819] [warning] [Gimbal] Data sanity check failed: yaw=2839508736.000 (max 180.0°)
+[2026-07-22 20:10:32.045] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:32.870] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:33.026] [warning] [Gimbal] Data sanity check failed: yaw=384620111066578116639981568.000 (max 180.0°)
+[2026-07-22 20:10:33.617] [warning] [Gimbal] Data sanity check failed: yaw=5286736828251830718942000718020608.000 (max 180.0°)
+[2026-07-22 20:10:33.713] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:33.749] [warning] [Gimbal] Data sanity check failed: yaw=2317478591014633472.000 (max 180.0°)
+[2026-07-22 20:10:34.152] [warning] [Gimbal] Data sanity check failed: yaw=1505763889272991564519440384.000 (max 180.0°)
+[2026-07-22 20:10:34.559] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:34.888] [warning] [Gimbal] Data sanity check failed: yaw=5743775192186880.000 (max 180.0°)
+[2026-07-22 20:10:35.021] [warning] [Gimbal] Data sanity check failed: yaw=104314.031 (max 180.0°)
+[2026-07-22 20:10:35.400] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:35.954] [warning] [Gimbal] Data sanity check failed: yaw=607138019739395799109337088.000 (max 180.0°)
+[2026-07-22 20:10:36.151] [warning] [Gimbal] Data sanity check failed: yaw=-1640430.875 (max 180.0°)
+[2026-07-22 20:10:36.244] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:37.078] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:37.486] [warning] [Gimbal] Data sanity check failed: yaw=226044276180212726628352.000 (max 180.0°)
+[2026-07-22 20:10:37.622] [warning] [Gimbal] Data sanity check failed: yaw=-1477186747736629551888425574620725248.000 (max 180.0°)
+[2026-07-22 20:10:37.919] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:38.618] [warning] [Gimbal] Data sanity check failed: yaw=12749133676806144.000 (max 180.0°)
+[2026-07-22 20:10:38.753] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:38.822] [warning] [Gimbal] Data sanity check failed: yaw=226771974750208.000 (max 180.0°)
+[2026-07-22 20:10:39.150] [warning] [Gimbal] Data sanity check failed: yaw=6048.256 (max 180.0°)
+[2026-07-22 20:10:39.287] [warning] [Gimbal] Data sanity check failed: yaw=-2488373689397002554916732928.000 (max 180.0°)
+[2026-07-22 20:10:39.488] [warning] [Gimbal] Data sanity check failed: yaw=181042489105162084840112128.000 (max 180.0°)
+[2026-07-22 20:10:39.601] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:40.021] [warning] [Gimbal] Data sanity check failed: yaw=151779782568366080132120576.000 (max 180.0°)
+[2026-07-22 20:10:40.438] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:40.688] [warning] [Gimbal] Data sanity check failed: yaw=106223113108122612755595264.000 (max 180.0°)
+[2026-07-22 20:10:41.267] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:41.422] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:10:41.889] [warning] [Gimbal] Data sanity check failed: yaw=479188445648669928058796996820992.000 (max 180.0°)
+[2026-07-22 20:10:42.090] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:10:42.111] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:42.489] [warning] [Gimbal] Data sanity check failed: yaw=6543929311028177227876356121952256.000 (max 180.0°)
+[2026-07-22 20:10:42.623] [warning] [Gimbal] Data sanity check failed: yaw=31069180043033316601888768.000 (max 180.0°)
+[2026-07-22 20:10:42.689] [warning] [Gimbal] Data sanity check failed: yaw=30550900321538373039685632.000 (max 180.0°)
+[2026-07-22 20:10:42.888] [warning] [Gimbal] Data sanity check failed: yaw=21209579299799040.000 (max 180.0°)
+[2026-07-22 20:10:42.957] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:43.017] [warning] [Gimbal] Data sanity check failed: yaw=539580032.000 (max 180.0°)
+[2026-07-22 20:10:43.215] [warning] [Gimbal] Data sanity check failed: yaw=21209579299799040.000 (max 180.0°)
+[2026-07-22 20:10:43.551] [warning] [Gimbal] Data sanity check failed: yaw=593274519299746168832.000 (max 180.0°)
+[2026-07-22 20:10:43.793] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:43.822] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:10:44.153] [warning] [Gimbal] Data sanity check failed: yaw=21209579299799040.000 (max 180.0°)
+[2026-07-22 20:10:44.622] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:44.949] [warning] [Gimbal] Data sanity check failed: yaw=6887937992665112981707523954311168.000 (max 180.0°)
+[2026-07-22 20:10:45.150] [warning] [Gimbal] Data sanity check failed: yaw=6899346848067167046320994283159552.000 (max 180.0°)
+[2026-07-22 20:10:45.466] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:45.488] [warning] [Gimbal] Data sanity check failed: yaw=118995692347890872641889763328.000 (max 180.0°)
+[2026-07-22 20:10:45.749] [warning] [Gimbal] Data sanity check failed: yaw=52976975493596634758959575638999040.000 (max 180.0°)
+[2026-07-22 20:10:46.309] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:46.888] [warning] [Gimbal] Data sanity check failed: yaw=8692731267448189935943680.000 (max 180.0°)
+[2026-07-22 20:10:47.021] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:10:47.148] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:47.551] [warning] [Gimbal] Data sanity check failed: yaw=6290079745335668257062912.000 (max 180.0°)
+[2026-07-22 20:10:47.985] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:48.486] [warning] [Gimbal] Data sanity check failed: yaw=736.992 (max 180.0°)
+[2026-07-22 20:10:48.689] [warning] [Gimbal] Data sanity check failed: yaw=4033951576091750001803264.000 (max 180.0°)
+[2026-07-22 20:10:48.829] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:49.660] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:49.683] [warning] [Gimbal] Data sanity check failed: yaw=21209579299799040.000 (max 180.0°)
+[2026-07-22 20:10:49.753] [warning] [Gimbal] Data sanity check failed: yaw=-29948228505430445005551167340544.000 (max 180.0°)
+[2026-07-22 20:10:50.505] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:50.622] [warning] [Gimbal] Data sanity check failed: yaw=-337505765893427360737347500572466479104.000 (max 180.0°)
+[2026-07-22 20:10:50.686] [warning] [Gimbal] Data sanity check failed: yaw=-99741088.000 (max 180.0°)
+[2026-07-22 20:10:51.344] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:51.347] [warning] [Gimbal] Data sanity check failed: yaw=21209579299799040.000 (max 180.0°)
+[2026-07-22 20:10:52.021] [warning] [Gimbal] Data sanity check failed: yaw=-119792333737328365000200810397696.000 (max 180.0°)
+[2026-07-22 20:10:52.187] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:53.021] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:53.087] [warning] [Gimbal] Data sanity check failed: yaw=-803074880.000 (max 180.0°)
+[2026-07-22 20:10:53.286] [warning] [Gimbal] Data sanity check failed: yaw=-5368462262448544668456493173671198720.000 (max 180.0°)
+[2026-07-22 20:10:53.422] [warning] [Gimbal] Data sanity check failed: yaw=8373149127157512254236098847309824.000 (max 180.0°)
+[2026-07-22 20:10:53.489] [warning] [Gimbal] Data sanity check failed: yaw=-80558819310732035709511919367880704.000 (max 180.0°)
+[2026-07-22 20:10:53.623] [warning] [Gimbal] Data sanity check failed: yaw=-17136363215330949988352.000 (max 180.0°)
+[2026-07-22 20:10:53.876] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:54.092] [warning] [Gimbal] Data sanity check failed: yaw=-7850929053538091098224918491526332416.000 (max 180.0°)
+[2026-07-22 20:10:54.148] [warning] [Gimbal] Data sanity check failed: yaw=21209579299799040.000 (max 180.0°)
+[2026-07-22 20:10:54.287] [warning] [Gimbal] Data sanity check failed: yaw=-242714605435858675684816103407616.000 (max 180.0°)
+[2026-07-22 20:10:54.548] [warning] [Gimbal] Data sanity check failed: yaw=-925882889257373441135214592.000 (max 180.0°)
+[2026-07-22 20:10:54.723] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:54.948] [warning] [Gimbal] Data sanity check failed: yaw=-60473831587840.000 (max 180.0°)
+[2026-07-22 20:10:55.086] [warning] [Gimbal] Data sanity check failed: yaw=-40135477346753839104.000 (max 180.0°)
+[2026-07-22 20:10:55.150] [warning] [Gimbal] Data sanity check failed: yaw=8771191415629176286306063653797888.000 (max 180.0°)
+[2026-07-22 20:10:55.569] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:56.348] [warning] [Gimbal] Data sanity check failed: yaw=-2317478591014633472.000 (max 180.0°)
+[2026-07-22 20:10:56.402] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:57.238] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:57.483] [warning] [Gimbal] Data sanity check failed: yaw=-5571009597002599104512.000 (max 180.0°)
+[2026-07-22 20:10:57.550] [warning] [Gimbal] Data sanity check failed: yaw=3940006063716913625634378302407835648.000 (max 180.0°)
+[2026-07-22 20:10:57.748] [warning] [Gimbal] Data sanity check failed: yaw=-128095677035716158685184.000 (max 180.0°)
+[2026-07-22 20:10:57.887] [warning] [Gimbal] Data sanity check failed: yaw=5506022091429689425920.000 (max 180.0°)
+[2026-07-22 20:10:58.086] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:58.223] [warning] [Gimbal] Data sanity check failed: yaw=-210715099136.000 (max 180.0°)
+[2026-07-22 20:10:58.286] [warning] [Gimbal] Data sanity check failed: yaw=9444947709650480213201561407455232.000 (max 180.0°)
+[2026-07-22 20:10:58.350] [warning] [Gimbal] Data sanity check failed: yaw=164685550174529880183000501030223872.000 (max 180.0°)
+[2026-07-22 20:10:58.686] [warning] [Gimbal] Data sanity check failed: yaw=-208582670811136.000 (max 180.0°)
+[2026-07-22 20:10:58.817] [warning] [Gimbal] Data sanity check failed: yaw=-15533764458455898092954828197068800.000 (max 180.0°)
+[2026-07-22 20:10:58.941] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:10:59.020] [warning] [Gimbal] Data sanity check failed: yaw=-15151675232471121162810553270272.000 (max 180.0°)
+[2026-07-22 20:10:59.288] [warning] [Gimbal] Data sanity check failed: yaw=3051101504820335935282479104.000 (max 180.0°)
+[2026-07-22 20:10:59.349] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:10:59.550] [warning] [Gimbal] Data sanity check failed: yaw=-410.482 (max 180.0°)
+[2026-07-22 20:10:59.782] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:00.086] [warning] [Gimbal] Data sanity check failed: yaw=21209579299799040.000 (max 180.0°)
+[2026-07-22 20:11:00.286] [warning] [Gimbal] Data sanity check failed: yaw=92661728.000 (max 180.0°)
+[2026-07-22 20:11:00.486] [warning] [Gimbal] Data sanity check failed: yaw=12583433838526464.000 (max 180.0°)
+[2026-07-22 20:11:00.626] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:00.883] [warning] [Gimbal] Data sanity check failed: yaw=-667967726011686745862238245557895168.000 (max 180.0°)
+[2026-07-22 20:11:01.019] [warning] [Gimbal] Data sanity check failed: yaw=3063.498 (max 180.0°)
+[2026-07-22 20:11:01.148] [warning] [Gimbal] Data sanity check failed: yaw=-96760.438 (max 180.0°)
+[2026-07-22 20:11:01.469] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:01.488] [warning] [Gimbal] Data sanity check failed: yaw=-13157397430272.000 (max 180.0°)
+[2026-07-22 20:11:01.618] [warning] [Gimbal] Data sanity check failed: yaw=16619322264780800.000 (max 180.0°)
+[2026-07-22 20:11:02.219] [warning] [Gimbal] Data sanity check failed: yaw=-1106958060312735615381037526705766400.000 (max 180.0°)
+[2026-07-22 20:11:02.311] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:02.348] [warning] [Gimbal] Data sanity check failed: yaw=-2642848518923496756887711523608199168.000 (max 180.0°)
+[2026-07-22 20:11:02.947] [warning] [Gimbal] Data sanity check failed: yaw=-237.248 (max 180.0°)
+[2026-07-22 20:11:03.148] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:03.552] [warning] [Gimbal] Data sanity check failed: yaw=492786017473577091072.000 (max 180.0°)
+[2026-07-22 20:11:03.621] [warning] [Gimbal] Data sanity check failed: yaw=-13941074944.000 (max 180.0°)
+[2026-07-22 20:11:03.987] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:04.145] [warning] [Gimbal] Data sanity check failed: yaw=12583416658657280.000 (max 180.0°)
+[2026-07-22 20:11:04.349] [warning] [Gimbal] Data sanity check failed: yaw=170999737858991806940732990862821163008.000 (max 180.0°)
+[2026-07-22 20:11:04.549] [warning] [Gimbal] Data sanity check failed: yaw=13290999630742928217342558932566016.000 (max 180.0°)
+[2026-07-22 20:11:04.827] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:04.887] [warning] [Gimbal] Data sanity check failed: yaw=985014905488693317081647884529565696.000 (max 180.0°)
+[2026-07-22 20:11:05.419] [warning] [Gimbal] Data sanity check failed: yaw=552529952768.000 (max 180.0°)
+[2026-07-22 20:11:05.489] [warning] [Gimbal] Data sanity check failed: yaw=-193535148032.000 (max 180.0°)
+[2026-07-22 20:11:05.661] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:06.021] [warning] [Gimbal] Data sanity check failed: yaw=122676338611432980480.000 (max 180.0°)
+[2026-07-22 20:11:06.147] [warning] [Gimbal] Data sanity check failed: yaw=994165995943578390866714991425224704.000 (max 180.0°)
+[2026-07-22 20:11:06.503] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:06.620] [warning] [Gimbal] Data sanity check failed: yaw=12583416658657280.000 (max 180.0°)
+[2026-07-22 20:11:07.022] [warning] [Gimbal] Data sanity check failed: yaw=-193535148032.000 (max 180.0°)
+[2026-07-22 20:11:07.342] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:07.623] [warning] [Gimbal] Data sanity check failed: yaw=56247975826880987136.000 (max 180.0°)
+[2026-07-22 20:11:08.179] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:08.219] [warning] [Gimbal] Data sanity check failed: yaw=795678720.000 (max 180.0°)
+[2026-07-22 20:11:08.285] [warning] [Gimbal] Data sanity check failed: yaw=25364348928.000 (max 180.0°)
+[2026-07-22 20:11:08.420] [warning] [Gimbal] Data sanity check failed: yaw=-193535148032.000 (max 180.0°)
+[2026-07-22 20:11:08.487] [warning] [Gimbal] Data sanity check failed: yaw=41506568346590511104.000 (max 180.0°)
+[2026-07-22 20:11:08.689] [warning] [Gimbal] Data sanity check failed: yaw=37842890049724612608.000 (max 180.0°)
+[2026-07-22 20:11:08.821] [warning] [Gimbal] Data sanity check failed: yaw=-267024240878034753712188648310439936.000 (max 180.0°)
+[2026-07-22 20:11:08.888] [warning] [Gimbal] Data sanity check failed: yaw=-9136861572073527624187416361828352.000 (max 180.0°)
+[2026-07-22 20:11:08.949] [warning] [Gimbal] Data sanity check failed: yaw=-203695456256.000 (max 180.0°)
+[2026-07-22 20:11:09.040] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:09.351] [warning] [Gimbal] Data sanity check failed: yaw=-126587.406 (max 180.0°)
+[2026-07-22 20:11:09.878] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:10.352] [warning] [Gimbal] Data sanity check failed: yaw=191.470 (max 180.0°)
+[2026-07-22 20:11:10.487] [warning] [Gimbal] Data sanity check failed: yaw=6340981248.000 (max 180.0°)
+[2026-07-22 20:11:10.547] [warning] [Gimbal] Data sanity check failed: yaw=-130449476588865974622078289211031552.000 (max 180.0°)
+[2026-07-22 20:11:10.686] [warning] [Gimbal] Data sanity check failed: yaw=-10436995718932605404097472586842112.000 (max 180.0°)
+[2026-07-22 20:11:10.736] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:10.946] [warning] [Gimbal] Data sanity check failed: yaw=15622842909862756201395744478855168.000 (max 180.0°)
+[2026-07-22 20:11:11.147] [warning] [Gimbal] Data sanity check failed: yaw=14467044660168957557211136.000 (max 180.0°)
+[2026-07-22 20:11:11.416] [warning] [Gimbal] Data sanity check failed: yaw=10436995718932605404097472586842112.000 (max 180.0°)
+[2026-07-22 20:11:11.482] [warning] [Gimbal] Data sanity check failed: yaw=-1513553771691838053922390342107136.000 (max 180.0°)
+[2026-07-22 20:11:11.587] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:11.689] [warning] [Gimbal] Data sanity check failed: yaw=-16390737920.000 (max 180.0°)
+[2026-07-22 20:11:12.021] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:11:12.147] [warning] [Gimbal] Data sanity check failed: yaw=-10295738713839888159759695668576256.000 (max 180.0°)
+[2026-07-22 20:11:12.426] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:12.549] [warning] [Gimbal] Data sanity check failed: yaw=3632943923212582912.000 (max 180.0°)
+[2026-07-22 20:11:13.019] [warning] [Gimbal] Data sanity check failed: yaw=2456308151817863168.000 (max 180.0°)
+[2026-07-22 20:11:13.218] [warning] [Gimbal] Data sanity check failed: yaw=-8633056495315536771021582326824960.000 (max 180.0°)
+[2026-07-22 20:11:13.265] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:13.421] [warning] [Gimbal] Data sanity check failed: yaw=1991936425213296640.000 (max 180.0°)
+[2026-07-22 20:11:13.484] [warning] [Gimbal] Data sanity check failed: yaw=17322128539468697714102075125661696.000 (max 180.0°)
+[2026-07-22 20:11:13.682] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:11:13.818] [warning] [Gimbal] Data sanity check failed: yaw=17500550361450821002362736101818368.000 (max 180.0°)
+[2026-07-22 20:11:14.119] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:14.284] [warning] [Gimbal] Data sanity check failed: yaw=-1511.766 (max 180.0°)
+[2026-07-22 20:11:14.415] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:11:14.885] [warning] [Gimbal] Data sanity check failed: yaw=-61563080018072175269604921431818240.000 (max 180.0°)
+[2026-07-22 20:11:14.969] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:15.218] [warning] [Gimbal] Data sanity check failed: yaw=-136810547300811229758788745895608320.000 (max 180.0°)
+[2026-07-22 20:11:15.686] [warning] [Gimbal] Data sanity check failed: yaw=-74168013279043145738598385719443456.000 (max 180.0°)
+[2026-07-22 20:11:15.812] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:15.886] [warning] [Gimbal] Data sanity check failed: yaw=470505111701946368.000 (max 180.0°)
+[2026-07-22 20:11:16.018] [warning] [Gimbal] Data sanity check failed: yaw=15126515913926461358080.000 (max 180.0°)
+[2026-07-22 20:11:16.220] [warning] [Gimbal] Data sanity check failed: yaw=194258.984 (max 180.0°)
+[2026-07-22 20:11:16.414] [warning] [Gimbal] Data sanity check failed: yaw=18725417753921347661558925574012928.000 (max 180.0°)
+[2026-07-22 20:11:16.660] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:17.348] [warning] [Gimbal] Data sanity check failed: yaw=40769514527080489859755752292352.000 (max 180.0°)
+[2026-07-22 20:11:17.510] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:17.950] [warning] [Gimbal] Data sanity check failed: yaw=212699373342031872.000 (max 180.0°)
+[2026-07-22 20:11:18.344] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:18.682] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:11:18.745] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:11:19.084] [warning] [Gimbal] Data sanity check failed: yaw=-14304247363197815545446117614288896.000 (max 180.0°)
+[2026-07-22 20:11:19.147] [warning] [Gimbal] Data sanity check failed: yaw=-12855956552437063454236134202146816.000 (max 180.0°)
+[2026-07-22 20:11:19.192] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:19.284] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:11:19.420] [warning] [Gimbal] Data sanity check failed: yaw=-14333932954933069432750080.000 (max 180.0°)
+[2026-07-22 20:11:19.546] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:11:19.747] [warning] [Gimbal] Data sanity check failed: yaw=49016.461 (max 180.0°)
+[2026-07-22 20:11:20.041] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:20.146] [warning] [Gimbal] Data sanity check failed: yaw=-15390940840243465199879166437097472.000 (max 180.0°)
+[2026-07-22 20:11:20.548] [warning] [Gimbal] Data sanity check failed: yaw=6046.883 (max 180.0°)
+[2026-07-22 20:11:20.618] [warning] [Gimbal] Data sanity check failed: yaw=-111545092520317661741056.000 (max 180.0°)
+[2026-07-22 20:11:20.884] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:21.148] [warning] [Gimbal] Data sanity check failed: yaw=-917902751197914169374835851919360.000 (max 180.0°)
+[2026-07-22 20:11:21.723] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:22.020] [warning] [Gimbal] Data sanity check failed: yaw=23940347423883264.000 (max 180.0°)
+[2026-07-22 20:11:22.421] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:11:22.562] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:22.947] [warning] [Gimbal] Data sanity check failed: yaw=21774434360120296429508870958743552.000 (max 180.0°)
+[2026-07-22 20:11:23.016] [warning] [Gimbal] Data sanity check failed: yaw=-803086784.000 (max 180.0°)
+[2026-07-22 20:11:23.396] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:23.545] [warning] [Gimbal] Data sanity check failed: yaw=2210119811072.000 (max 180.0°)
+[2026-07-22 20:11:24.234] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:24.282] [warning] [Gimbal] Data sanity check failed: yaw=261509848738420160645904632095908560896.000 (max 180.0°)
+[2026-07-22 20:11:25.059] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:25.881] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:11:25.899] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:26.084] [warning] [Gimbal] Data sanity check failed: yaw=3772234611032064.000 (max 180.0°)
+[2026-07-22 20:11:26.484] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:11:26.683] [warning] [Gimbal] Data sanity check failed: yaw=137298354176.000 (max 180.0°)
+[2026-07-22 20:11:26.744] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:27.085] [warning] [Gimbal] Data sanity check failed: yaw=7848930602366831294573458938923057152.000 (max 180.0°)
+[2026-07-22 20:11:27.145] [warning] [Gimbal] Data sanity check failed: yaw=-242718435312855214830041572573184.000 (max 180.0°)
+[2026-07-22 20:11:27.585] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:28.422] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:28.618] [warning] [Gimbal] Data sanity check failed: yaw=-485770108610035562962832553148416.000 (max 180.0°)
+[2026-07-22 20:11:28.746] [warning] [Gimbal] Data sanity check failed: yaw=25981766702277789813076428897386496.000 (max 180.0°)
+[2026-07-22 20:11:29.218] [warning] [Gimbal] Data sanity check failed: yaw=1891223036658704304832512.000 (max 180.0°)
+[2026-07-22 20:11:29.265] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:29.818] [warning] [Gimbal] Data sanity check failed: yaw=-435721293623258513408.000 (max 180.0°)
+[2026-07-22 20:11:29.885] [warning] [Gimbal] Data sanity check failed: yaw=830856927117312.000 (max 180.0°)
+[2026-07-22 20:11:29.946] [warning] [Gimbal] Data sanity check failed: yaw=13997848545112818188288.000 (max 180.0°)
+[2026-07-22 20:11:30.113] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:30.617] [warning] [Gimbal] Data sanity check failed: yaw=-35361916977152.000 (max 180.0°)
+[2026-07-22 20:11:30.935] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:31.015] [warning] [Gimbal] Data sanity check failed: yaw=411013237178368.000 (max 180.0°)
+[2026-07-22 20:11:31.344] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:11:31.774] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:31.817] [warning] [Gimbal] Data sanity check failed: yaw=75941851959511744512.000 (max 180.0°)
+[2026-07-22 20:11:31.883] [warning] [Gimbal] Data sanity check failed: yaw=-1558511.000 (max 180.0°)
+[2026-07-22 20:11:32.215] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:11:32.485] [warning] [Gimbal] Data sanity check failed: yaw=20099215917056.000 (max 180.0°)
+[2026-07-22 20:11:32.618] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:32.688] [warning] [Gimbal] Data sanity check failed: yaw=214079373312000.000 (max 180.0°)
+[2026-07-22 20:11:33.451] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:33.484] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:11:33.620] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:11:33.818] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:11:33.946] [warning] [Gimbal] Data sanity check failed: yaw=-904198649941468246966272.000 (max 180.0°)
+[2026-07-22 20:11:34.145] [warning] [Gimbal] Data sanity check failed: yaw=9492392308795938701312.000 (max 180.0°)
+[2026-07-22 20:11:34.293] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:35.119] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:35.947] [warning] [Gimbal] Data sanity check failed: yaw=-467833513778336864172349849600.000 (max 180.0°)
+[2026-07-22 20:11:35.956] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:36.280] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:11:36.614] [warning] [Gimbal] Data sanity check failed: yaw=526933.625 (max 180.0°)
+[2026-07-22 20:11:36.797] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:37.086] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:11:37.145] [warning] [Gimbal] Data sanity check failed: yaw=32091208770077741413589789995696128.000 (max 180.0°)
+[2026-07-22 20:11:37.480] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:11:37.640] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:38.283] [warning] [Gimbal] Data sanity check failed: yaw=-92680228279752365433701886066688.000 (max 180.0°)
+[2026-07-22 20:11:38.347] [warning] [Gimbal] Data sanity check failed: yaw=-63329603239028741609566523883520.000 (max 180.0°)
+[2026-07-22 20:11:38.478] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:11:38.484] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:38.683] [warning] [Gimbal] Data sanity check failed: yaw=-59257685504092617643957157888.000 (max 180.0°)
+[2026-07-22 20:11:38.883] [warning] [Gimbal] Data sanity check failed: yaw=29238685555598101604068229120.000 (max 180.0°)
+[2026-07-22 20:11:39.318] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:39.817] [warning] [Gimbal] Data sanity check failed: yaw=34885744518280873129189272211947520.000 (max 180.0°)
+[2026-07-22 20:11:39.884] [warning] [Gimbal] Data sanity check failed: yaw=1873.928 (max 180.0°)
+[2026-07-22 20:11:40.017] [warning] [Gimbal] Data sanity check failed: yaw=309.476 (max 180.0°)
+[2026-07-22 20:11:40.165] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:40.747] [warning] [Gimbal] Data sanity check failed: yaw=35862469305756723883042482031689728.000 (max 180.0°)
+[2026-07-22 20:11:41.000] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:41.144] [warning] [Gimbal] Data sanity check failed: yaw=-9720209724207041230143488.000 (max 180.0°)
+[2026-07-22 20:11:41.749] [warning] [Gimbal] Data sanity check failed: yaw=12849479680.000 (max 180.0°)
+[2026-07-22 20:11:41.842] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:41.944] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:11:42.085] [warning] [Gimbal] Data sanity check failed: yaw=-923856200088357430879437455360.000 (max 180.0°)
+[2026-07-22 20:11:42.217] [warning] [Gimbal] Data sanity check failed: yaw=36756162978917625611097657791479808.000 (max 180.0°)
+[2026-07-22 20:11:42.487] [warning] [Gimbal] Data sanity check failed: yaw=-9720209724207041230143488.000 (max 180.0°)
+[2026-07-22 20:11:42.691] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:43.021] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:11:43.086] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:11:43.526] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:43.819] [warning] [Gimbal] Data sanity check failed: yaw=-102587622219035044082513608704.000 (max 180.0°)
+[2026-07-22 20:11:44.346] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:11:44.379] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:44.416] [warning] [Gimbal] Data sanity check failed: yaw=240490433384338237846225078452224.000 (max 180.0°)
+[2026-07-22 20:11:45.079] [warning] [Gimbal] Data sanity check failed: yaw=-703162409361610772006066716672.000 (max 180.0°)
+[2026-07-22 20:11:45.222] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:45.682] [warning] [Gimbal] Data sanity check failed: yaw=-13473678553513984.000 (max 180.0°)
+[2026-07-22 20:11:46.057] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:46.213] [warning] [Gimbal] Data sanity check failed: yaw=-1429935409570753025856451010101248.000 (max 180.0°)
+[2026-07-22 20:11:46.897] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:47.683] [warning] [Gimbal] Data sanity check failed: yaw=41495908573170975343293831076380672.000 (max 180.0°)
+[2026-07-22 20:11:47.728] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:48.343] [warning] [Gimbal] Data sanity check failed: yaw=-15170027935338690848311767728128.000 (max 180.0°)
+[2026-07-22 20:11:48.551] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:48.747] [warning] [Gimbal] Data sanity check failed: yaw=42679260408484027489591003518599168.000 (max 180.0°)
+[2026-07-22 20:11:48.886] [warning] [Gimbal] Data sanity check failed: yaw=114200536710006824318795776.000 (max 180.0°)
+[2026-07-22 20:11:49.387] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:49.549] [warning] [Gimbal] Data sanity check failed: yaw=26698967040.000 (max 180.0°)
+[2026-07-22 20:11:50.227] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:51.063] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:51.422] [warning] [Gimbal] Data sanity check failed: yaw=1444679627309056.000 (max 180.0°)
+[2026-07-22 20:11:51.899] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:52.217] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:11:52.345] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:11:52.741] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:53.017] [warning] [Gimbal] Data sanity check failed: yaw=48164384555671576109867238288261120.000 (max 180.0°)
+[2026-07-22 20:11:53.077] [warning] [Gimbal] Data sanity check failed: yaw=39813979030352040878667726848.000 (max 180.0°)
+[2026-07-22 20:11:53.343] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:11:53.482] [warning] [Gimbal] Data sanity check failed: yaw=-62136543361870734828149191737344000.000 (max 180.0°)
+[2026-07-22 20:11:53.589] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:54.420] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:11:54.429] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:54.818] [warning] [Gimbal] Data sanity check failed: yaw=198927232.000 (max 180.0°)
+[2026-07-22 20:11:55.083] [warning] [Gimbal] Data sanity check failed: yaw=-26500403499960832579647695749120.000 (max 180.0°)
+[2026-07-22 20:11:55.271] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:55.683] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:11:55.881] [warning] [Gimbal] Data sanity check failed: yaw=-3063.571 (max 180.0°)
+[2026-07-22 20:11:56.108] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:56.544] [warning] [Gimbal] Data sanity check failed: yaw=54876594483880050790792281760727040.000 (max 180.0°)
+[2026-07-22 20:11:56.613] [warning] [Gimbal] Data sanity check failed: yaw=54976738881298080913510521313951744.000 (max 180.0°)
+[2026-07-22 20:11:56.747] [warning] [Gimbal] Data sanity check failed: yaw=652005184.000 (max 180.0°)
+[2026-07-22 20:11:56.883] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:11:56.948] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:57.011] [warning] [Gimbal] Data sanity check failed: yaw=396210784.000 (max 180.0°)
+[2026-07-22 20:11:57.144] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:11:57.283] [warning] [Gimbal] Data sanity check failed: yaw=456799306041439946004234240.000 (max 180.0°)
+[2026-07-22 20:11:57.791] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:58.083] [warning] [Gimbal] Data sanity check failed: yaw=-386924.812 (max 180.0°)
+[2026-07-22 20:11:58.616] [warning] [Gimbal] Data sanity check failed: yaw=1052223568084992.000 (max 180.0°)
+[2026-07-22 20:11:58.633] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:59.284] [warning] [Gimbal] Data sanity check failed: yaw=262943696.000 (max 180.0°)
+[2026-07-22 20:11:59.478] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:11:59.481] [warning] [Gimbal] Data sanity check failed: yaw=128665803062662027306792635064123392.000 (max 180.0°)
+[2026-07-22 20:11:59.548] [warning] [Gimbal] Data sanity check failed: yaw=-3847849719514500197645219778265088.000 (max 180.0°)
+[2026-07-22 20:12:00.215] [warning] [Gimbal] Data sanity check failed: yaw=43223984635904.000 (max 180.0°)
+[2026-07-22 20:12:00.225] [warning] [Gimbal] Data sanity check failed: yaw=223163344.000 (max 180.0°)
+[2026-07-22 20:12:00.321] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:01.159] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:01.991] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:02.016] [warning] [Gimbal] Data sanity check failed: yaw=-422191332591265308798353408.000 (max 180.0°)
+[2026-07-22 20:12:02.750] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:12:02.831] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:03.342] [warning] [Gimbal] Data sanity check failed: yaw=62746169410096898915283815259701248.000 (max 180.0°)
+[2026-07-22 20:12:03.615] [warning] [Gimbal] Data sanity check failed: yaw=1185.984 (max 180.0°)
+[2026-07-22 20:12:03.678] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:03.685] [warning] [Gimbal] Data sanity check failed: yaw=-63886825499721156198924288.000 (max 180.0°)
+[2026-07-22 20:12:03.884] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:12:04.089] [warning] [Gimbal] Data sanity check failed: yaw=48205044.000 (max 180.0°)
+[2026-07-22 20:12:04.512] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:05.143] [warning] [Gimbal] Data sanity check failed: yaw=11075749.000 (max 180.0°)
+[2026-07-22 20:12:05.361] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:05.686] [warning] [Gimbal] Data sanity check failed: yaw=16044861.000 (max 180.0°)
+[2026-07-22 20:12:05.747] [warning] [Gimbal] Data sanity check failed: yaw=-385215203030395986775113728.000 (max 180.0°)
+[2026-07-22 20:12:06.192] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:06.219] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:12:06.279] [warning] [Gimbal] Data sanity check failed: yaw=530433867776.000 (max 180.0°)
+[2026-07-22 20:12:06.544] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:12:06.815] [warning] [Gimbal] Data sanity check failed: yaw=69217525724262010009924485123145728.000 (max 180.0°)
+[2026-07-22 20:12:06.947] [warning] [Gimbal] Data sanity check failed: yaw=-469018318635400710737362944.000 (max 180.0°)
+[2026-07-22 20:12:07.048] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:07.281] [warning] [Gimbal] Data sanity check failed: yaw=2045171566556745826304.000 (max 180.0°)
+[2026-07-22 20:12:07.740] [warning] [Gimbal] Data sanity check failed: yaw=607513107762940076883968.000 (max 180.0°)
+[2026-07-22 20:12:07.816] [warning] [Gimbal] Data sanity check failed: yaw=6123550.500 (max 180.0°)
+[2026-07-22 20:12:07.892] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:07.943] [warning] [Gimbal] Data sanity check failed: yaw=70435737951081338464762816903512064.000 (max 180.0°)
+[2026-07-22 20:12:08.726] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:08.880] [warning] [Gimbal] Data sanity check failed: yaw=71063224998194312018503684990173184.000 (max 180.0°)
+[2026-07-22 20:12:09.217] [warning] [Gimbal] Data sanity check failed: yaw=-7847299136044337563333732681897738240.000 (max 180.0°)
+[2026-07-22 20:12:09.543] [warning] [Gimbal] Data sanity check failed: yaw=-30299921424809197568.000 (max 180.0°)
+[2026-07-22 20:12:09.573] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:10.280] [warning] [Gimbal] Data sanity check failed: yaw=481062622692700124610560.000 (max 180.0°)
+[2026-07-22 20:12:10.414] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:10.681] [warning] [Gimbal] Data sanity check failed: yaw=-2100191223870871057936926131659735040.000 (max 180.0°)
+[2026-07-22 20:12:10.880] [warning] [Gimbal] Data sanity check failed: yaw=-951119005216560644096.000 (max 180.0°)
+[2026-07-22 20:12:11.257] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:11.679] [warning] [Gimbal] Data sanity check failed: yaw=1785078309530758406995968.000 (max 180.0°)
+[2026-07-22 20:12:12.011] [warning] [Gimbal] Data sanity check failed: yaw=12583416658657280.000 (max 180.0°)
+[2026-07-22 20:12:12.079] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:12:12.097] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:12.480] [warning] [Gimbal] Data sanity check failed: yaw=-35489319682685322949296128.000 (max 180.0°)
+[2026-07-22 20:12:12.544] [warning] [Gimbal] Data sanity check failed: yaw=-35419664777062995682394112.000 (max 180.0°)
+[2026-07-22 20:12:12.938] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:12.944] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:12:13.082] [warning] [Gimbal] Data sanity check failed: yaw=-3035.411 (max 180.0°)
+[2026-07-22 20:12:13.346] [warning] [Gimbal] Data sanity check failed: yaw=594499.812 (max 180.0°)
+[2026-07-22 20:12:13.786] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:14.085] [warning] [Gimbal] Data sanity check failed: yaw=400105.906 (max 180.0°)
+[2026-07-22 20:12:14.214] [warning] [Gimbal] Data sanity check failed: yaw=1245077010780522205581148160.000 (max 180.0°)
+[2026-07-22 20:12:14.412] [warning] [Gimbal] Data sanity check failed: yaw=-23924033536.000 (max 180.0°)
+[2026-07-22 20:12:14.635] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:15.014] [warning] [Gimbal] Data sanity check failed: yaw=79962132211796482417010541491912704.000 (max 180.0°)
+[2026-07-22 20:12:15.080] [warning] [Gimbal] Data sanity check failed: yaw=-738295.562 (max 180.0°)
+[2026-07-22 20:12:15.472] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:15.814] [warning] [Gimbal] Data sanity check failed: yaw=81532751305479258645464956763373568.000 (max 180.0°)
+[2026-07-22 20:12:16.213] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:12:16.311] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:17.141] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:17.973] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:18.083] [warning] [Gimbal] Data sanity check failed: yaw=-3337461514108928.000 (max 180.0°)
+[2026-07-22 20:12:18.415] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:12:18.682] [warning] [Gimbal] Data sanity check failed: yaw=48566.348 (max 180.0°)
+[2026-07-22 20:12:18.741] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:12:18.814] [warning] [Gimbal] Data sanity check failed: yaw=3056429992771584.000 (max 180.0°)
+[2026-07-22 20:12:18.826] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:19.661] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:20.499] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:21.335] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:21.413] [warning] [Gimbal] Data sanity check failed: yaw=93182460321576686845219659220779008.000 (max 180.0°)
+[2026-07-22 20:12:21.681] [warning] [Gimbal] Data sanity check failed: yaw=93131754297567557669159791092563968.000 (max 180.0°)
+[2026-07-22 20:12:21.815] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:12:22.178] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:22.543] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:12:22.883] [warning] [Gimbal] Data sanity check failed: yaw=-334781627760640.000 (max 180.0°)
+[2026-07-22 20:12:23.027] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:23.275] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:12:23.615] [warning] [Gimbal] Data sanity check failed: yaw=6969124516772051943424.000 (max 180.0°)
+[2026-07-22 20:12:23.866] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:24.546] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:12:24.705] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:24.813] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:12:24.942] [warning] [Gimbal] Data sanity check failed: yaw=102385603679233632300085724491808768.000 (max 180.0°)
+[2026-07-22 20:12:25.281] [warning] [Gimbal] Data sanity check failed: yaw=2684.327 (max 180.0°)
+[2026-07-22 20:12:25.478] [warning] [Gimbal] Data sanity check failed: yaw=-270648197105667761242112.000 (max 180.0°)
+[2026-07-22 20:12:25.553] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:25.616] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:12:26.013] [warning] [Gimbal] Data sanity check failed: yaw=15907131304072339839893001126505611264.000 (max 180.0°)
+[2026-07-22 20:12:26.139] [warning] [Gimbal] Data sanity check failed: yaw=-159255916121408163514670907392.000 (max 180.0°)
+[2026-07-22 20:12:26.391] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:26.877] [warning] [Gimbal] Data sanity check failed: yaw=1008.269 (max 180.0°)
+[2026-07-22 20:12:27.226] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:27.347] [warning] [Gimbal] Data sanity check failed: yaw=53682313821977313280.000 (max 180.0°)
+[2026-07-22 20:12:27.544] [warning] [Gimbal] Data sanity check failed: yaw=172380600392588453671287652352.000 (max 180.0°)
+[2026-07-22 20:12:27.614] [warning] [Gimbal] Data sanity check failed: yaw=-589322043632542671901294592.000 (max 180.0°)
+[2026-07-22 20:12:27.940] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:12:28.072] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:28.481] [warning] [Gimbal] Data sanity check failed: yaw=-521132013268543882657792.000 (max 180.0°)
+[2026-07-22 20:12:28.815] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:12:28.881] [warning] [Gimbal] Data sanity check failed: yaw=-28545630866104711735410688.000 (max 180.0°)
+[2026-07-22 20:12:28.914] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:29.342] [warning] [Gimbal] Data sanity check failed: yaw=-198931264.000 (max 180.0°)
+[2026-07-22 20:12:29.411] [warning] [Gimbal] Data sanity check failed: yaw=119831011239574525323483354004193280.000 (max 180.0°)
+[2026-07-22 20:12:29.540] [warning] [Gimbal] Data sanity check failed: yaw=-276702296012749371604992.000 (max 180.0°)
+[2026-07-22 20:12:29.745] [warning] [Gimbal] Data sanity check failed: yaw=120175812202836603720690457276055552.000 (max 180.0°)
+[2026-07-22 20:12:29.756] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:29.878] [warning] [Gimbal] Data sanity check failed: yaw=-31095639343639803389331594280960.000 (max 180.0°)
+[2026-07-22 20:12:30.143] [warning] [Gimbal] Data sanity check failed: yaw=7662751045913400356583861915746304.000 (max 180.0°)
+[2026-07-22 20:12:30.410] [warning] [Gimbal] Data sanity check failed: yaw=-240560512686333932601344.000 (max 180.0°)
+[2026-07-22 20:12:30.544] [warning] [Gimbal] Data sanity check failed: yaw=240492038837826686073769088253952.000 (max 180.0°)
+[2026-07-22 20:12:30.603] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:30.741] [warning] [Gimbal] Data sanity check failed: yaw=122363777138830527667673767008534528.000 (max 180.0°)
+[2026-07-22 20:12:31.339] [warning] [Gimbal] Data sanity check failed: yaw=124298211954778805734357736099938304.000 (max 180.0°)
+[2026-07-22 20:12:31.416] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:12:31.448] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:31.878] [warning] [Gimbal] Data sanity check failed: yaw=-15850414670872576.000 (max 180.0°)
+[2026-07-22 20:12:32.280] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:32.879] [warning] [Gimbal] Data sanity check failed: yaw=-17749887579848704.000 (max 180.0°)
+[2026-07-22 20:12:33.079] [warning] [Gimbal] Data sanity check failed: yaw=63628717899180594050441032004909662208.000 (max 180.0°)
+[2026-07-22 20:12:33.124] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:33.342] [warning] [Gimbal] Data sanity check failed: yaw=12583416658657280.000 (max 180.0°)
+[2026-07-22 20:12:33.542] [warning] [Gimbal] Data sanity check failed: yaw=131602414713293863545781739969314816.000 (max 180.0°)
+[2026-07-22 20:12:33.611] [warning] [Gimbal] Data sanity check failed: yaw=48856217681920.000 (max 180.0°)
+[2026-07-22 20:12:33.740] [warning] [Gimbal] Data sanity check failed: yaw=132051163025774656753911572904017920.000 (max 180.0°)
+[2026-07-22 20:12:33.878] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:12:33.981] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:34.483] [warning] [Gimbal] Data sanity check failed: yaw=2922915997977645928153088.000 (max 180.0°)
+[2026-07-22 20:12:34.808] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:35.209] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:12:35.412] [warning] [Gimbal] Data sanity check failed: yaw=-103325392696418674671616.000 (max 180.0°)
+[2026-07-22 20:12:35.478] [warning] [Gimbal] Data sanity check failed: yaw=138554210604945473583589660347596800.000 (max 180.0°)
+[2026-07-22 20:12:35.615] [warning] [Gimbal] Data sanity check failed: yaw=-872.964 (max 180.0°)
+[2026-07-22 20:12:35.659] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:36.492] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:36.543] [warning] [Gimbal] Data sanity check failed: yaw=-22739789159501408501760.000 (max 180.0°)
+[2026-07-22 20:12:36.739] [warning] [Gimbal] Data sanity check failed: yaw=478903835496512973599970970042368.000 (max 180.0°)
+[2026-07-22 20:12:36.879] [warning] [Gimbal] Data sanity check failed: yaw=63043250934163985844900976636100345856.000 (max 180.0°)
+[2026-07-22 20:12:37.338] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:37.811] [warning] [Gimbal] Data sanity check failed: yaw=-391479072546476299124736.000 (max 180.0°)
+[2026-07-22 20:12:38.181] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:38.281] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:12:38.542] [warning] [Gimbal] Data sanity check failed: yaw=60681209445998973476537704120320.000 (max 180.0°)
+[2026-07-22 20:12:38.612] [warning] [Gimbal] Data sanity check failed: yaw=63043002474646341111938283282272092160.000 (max 180.0°)
+[2026-07-22 20:12:38.878] [warning] [Gimbal] Data sanity check failed: yaw=61565719306235931700351006364663808.000 (max 180.0°)
+[2026-07-22 20:12:39.026] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:39.610] [warning] [Gimbal] Data sanity check failed: yaw=-13525047838986924021776384.000 (max 180.0°)
+[2026-07-22 20:12:39.858] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:40.140] [warning] [Gimbal] Data sanity check failed: yaw=61565753968557031690998703540142080.000 (max 180.0°)
+[2026-07-22 20:12:40.478] [warning] [Gimbal] Data sanity check failed: yaw=153867429855702484753669835068538880.000 (max 180.0°)
+[2026-07-22 20:12:40.699] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:41.479] [warning] [Gimbal] Data sanity check failed: yaw=61565659885114046002097811206701056.000 (max 180.0°)
+[2026-07-22 20:12:41.536] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:42.343] [warning] [Gimbal] Data sanity check failed: yaw=195892941989875582054405505024.000 (max 180.0°)
+[2026-07-22 20:12:42.369] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:42.542] [warning] [Gimbal] Data sanity check failed: yaw=2201143761436672.000 (max 180.0°)
+[2026-07-22 20:12:42.739] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:12:42.940] [warning] [Gimbal] Data sanity check failed: yaw=8633280512.000 (max 180.0°)
+[2026-07-22 20:12:43.217] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:43.677] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:12:43.878] [warning] [Gimbal] Data sanity check failed: yaw=162213641407605147133124128972734464.000 (max 180.0°)
+[2026-07-22 20:12:44.062] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:44.414] [warning] [Gimbal] Data sanity check failed: yaw=-53400268989005824.000 (max 180.0°)
+[2026-07-22 20:12:44.904] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:44.940] [warning] [Gimbal] Data sanity check failed: yaw=-14814781456467473221436833792.000 (max 180.0°)
+[2026-07-22 20:12:45.280] [warning] [Gimbal] Data sanity check failed: yaw=168176669831078738237764620850823168.000 (max 180.0°)
+[2026-07-22 20:12:45.544] [warning] [Gimbal] Data sanity check failed: yaw=-232828201843520700416.000 (max 180.0°)
+[2026-07-22 20:12:45.613] [warning] [Gimbal] Data sanity check failed: yaw=-295618496156040953856.000 (max 180.0°)
+[2026-07-22 20:12:45.739] [warning] [Gimbal] Data sanity check failed: yaw=2488373689397002554916732928.000 (max 180.0°)
+[2026-07-22 20:12:45.751] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:46.078] [warning] [Gimbal] Data sanity check failed: yaw=-116910351977453431751264174080.000 (max 180.0°)
+[2026-07-22 20:12:46.410] [warning] [Gimbal] Data sanity check failed: yaw=-246263511050243840916104773810257920.000 (max 180.0°)
+[2026-07-22 20:12:46.590] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:46.677] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:12:47.342] [warning] [Gimbal] Data sanity check failed: yaw=254516271082985028167023380379977383936.000 (max 180.0°)
+[2026-07-22 20:12:47.432] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:47.940] [warning] [Gimbal] Data sanity check failed: yaw=777071.875 (max 180.0°)
+[2026-07-22 20:12:48.079] [warning] [Gimbal] Data sanity check failed: yaw=-336727353554678841344.000 (max 180.0°)
+[2026-07-22 20:12:48.272] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:48.540] [warning] [Gimbal] Data sanity check failed: yaw=7135682528899780227104768.000 (max 180.0°)
+[2026-07-22 20:12:49.105] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:49.948] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:50.744] [warning] [Gimbal] Data sanity check failed: yaw=-27128395527652114432.000 (max 180.0°)
+[2026-07-22 20:12:50.788] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:51.546] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:12:51.630] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:52.019] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:12:52.463] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:52.479] [warning] [Gimbal] Data sanity check failed: yaw=-4510811113529092988582880083968.000 (max 180.0°)
+[2026-07-22 20:12:53.014] [warning] [Gimbal] Data sanity check failed: yaw=-3161980156248064.000 (max 180.0°)
+[2026-07-22 20:12:53.084] [warning] [Gimbal] Data sanity check failed: yaw=-41326452885888356145168384.000 (max 180.0°)
+[2026-07-22 20:12:53.310] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:53.340] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:12:53.813] [warning] [Gimbal] Data sanity check failed: yaw=539580032.000 (max 180.0°)
+[2026-07-22 20:12:54.078] [warning] [Gimbal] Data sanity check failed: yaw=-3348936221467344896.000 (max 180.0°)
+[2026-07-22 20:12:54.153] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:54.883] [warning] [Gimbal] Data sanity check failed: yaw=2058.334 (max 180.0°)
+[2026-07-22 20:12:54.996] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:55.011] [warning] [Gimbal] Data sanity check failed: yaw=-251296663883218944.000 (max 180.0°)
+[2026-07-22 20:12:55.144] [warning] [Gimbal] Data sanity check failed: yaw=1622289285120.000 (max 180.0°)
+[2026-07-22 20:12:55.610] [warning] [Gimbal] Data sanity check failed: yaw=405568520192.000 (max 180.0°)
+[2026-07-22 20:12:55.742] [warning] [Gimbal] Data sanity check failed: yaw=-2236328133525504.000 (max 180.0°)
+[2026-07-22 20:12:55.846] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:56.539] [warning] [Gimbal] Data sanity check failed: yaw=240295847779263165347715059611074560.000 (max 180.0°)
+[2026-07-22 20:12:56.679] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:12:56.682] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:56.939] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:12:57.479] [warning] [Gimbal] Data sanity check failed: yaw=-14678590768284754088296448000.000 (max 180.0°)
+[2026-07-22 20:12:57.518] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:57.877] [warning] [Gimbal] Data sanity check failed: yaw=-42150048833732608.000 (max 180.0°)
+[2026-07-22 20:12:58.356] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:58.541] [warning] [Gimbal] Data sanity check failed: yaw=-193534492672.000 (max 180.0°)
+[2026-07-22 20:12:58.877] [warning] [Gimbal] Data sanity check failed: yaw=-22355955463225344.000 (max 180.0°)
+[2026-07-22 20:12:59.012] [warning] [Gimbal] Data sanity check failed: yaw=251217925350829589871010654428594176.000 (max 180.0°)
+[2026-07-22 20:12:59.198] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:12:59.340] [warning] [Gimbal] Data sanity check failed: yaw=252526140770265122613355252136542208.000 (max 180.0°)
+[2026-07-22 20:12:59.677] [warning] [Gimbal] Data sanity check failed: yaw=232.003 (max 180.0°)
+[2026-07-22 20:12:59.813] [warning] [Gimbal] Data sanity check failed: yaw=254189298357764559588118926741995520.000 (max 180.0°)
+[2026-07-22 20:13:00.045] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:00.277] [warning] [Gimbal] Data sanity check failed: yaw=-3883627734074896794315148092243968.000 (max 180.0°)
+[2026-07-22 20:13:00.538] [warning] [Gimbal] Data sanity check failed: yaw=14400.161 (max 180.0°)
+[2026-07-22 20:13:00.614] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:13:00.874] [warning] [Gimbal] Data sanity check failed: yaw=425989.156 (max 180.0°)
+[2026-07-22 20:13:00.889] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:01.340] [warning] [Gimbal] Data sanity check failed: yaw=1171476.625 (max 180.0°)
+[2026-07-22 20:13:01.478] [warning] [Gimbal] Data sanity check failed: yaw=262373250632838008604181642635902976.000 (max 180.0°)
+[2026-07-22 20:13:01.540] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:13:01.678] [warning] [Gimbal] Data sanity check failed: yaw=-69108974435172352.000 (max 180.0°)
+[2026-07-22 20:13:01.740] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:02.077] [warning] [Gimbal] Data sanity check failed: yaw=264553609665230563174755972149149696.000 (max 180.0°)
+[2026-07-22 20:13:02.141] [warning] [Gimbal] Data sanity check failed: yaw=-123948486965067776.000 (max 180.0°)
+[2026-07-22 20:13:02.341] [warning] [Gimbal] Data sanity check failed: yaw=2743656303676859539783680.000 (max 180.0°)
+[2026-07-22 20:13:02.587] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:02.740] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:13:03.139] [warning] [Gimbal] Data sanity check failed: yaw=-622093422349250638729183232.000 (max 180.0°)
+[2026-07-22 20:13:03.425] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:04.256] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:04.479] [warning] [Gimbal] Data sanity check failed: yaw=-120329109984549797888.000 (max 180.0°)
+[2026-07-22 20:13:04.539] [warning] [Gimbal] Data sanity check failed: yaw=-207245830028001280.000 (max 180.0°)
+[2026-07-22 20:13:04.740] [warning] [Gimbal] Data sanity check failed: yaw=1872627367936.000 (max 180.0°)
+[2026-07-22 20:13:05.011] [warning] [Gimbal] Data sanity check failed: yaw=3006520360960.000 (max 180.0°)
+[2026-07-22 20:13:05.105] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:05.280] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:13:05.479] [warning] [Gimbal] Data sanity check failed: yaw=-65575144063500288.000 (max 180.0°)
+[2026-07-22 20:13:05.944] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:06.278] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:13:06.543] [warning] [Gimbal] Data sanity check failed: yaw=-193534443520.000 (max 180.0°)
+[2026-07-22 20:13:06.787] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:07.081] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:13:07.341] [warning] [Gimbal] Data sanity check failed: yaw=226057336619132101066752.000 (max 180.0°)
+[2026-07-22 20:13:07.410] [warning] [Gimbal] Data sanity check failed: yaw=18735337288698429440.000 (max 180.0°)
+[2026-07-22 20:13:07.539] [warning] [Gimbal] Data sanity check failed: yaw=-55994357549006082539520.000 (max 180.0°)
+[2026-07-22 20:13:07.628] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:07.813] [warning] [Gimbal] Data sanity check failed: yaw=-3499646502387950026752.000 (max 180.0°)
+[2026-07-22 20:13:08.463] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:08.812] [warning] [Gimbal] Data sanity check failed: yaw=-44915320577589248.000 (max 180.0°)
+[2026-07-22 20:13:09.306] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:10.136] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:10.679] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:13:10.879] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:13:10.942] [warning] [Gimbal] Data sanity check failed: yaw=-1122750791551540548303153266688.000 (max 180.0°)
+[2026-07-22 20:13:10.978] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:11.540] [warning] [Gimbal] Data sanity check failed: yaw=310320866935870557486392944676044800.000 (max 180.0°)
+[2026-07-22 20:13:11.737] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:13:11.824] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:11.937] [warning] [Gimbal] Data sanity check failed: yaw=-14128603804894079483904.000 (max 180.0°)
+[2026-07-22 20:13:12.005] [warning] [Gimbal] Data sanity check failed: yaw=2671870904046746983448952982231580672.000 (max 180.0°)
+[2026-07-22 20:13:12.667] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:12.877] [warning] [Gimbal] Data sanity check failed: yaw=234858075644931804205911375872.000 (max 180.0°)
+[2026-07-22 20:13:13.078] [warning] [Gimbal] Data sanity check failed: yaw=289423028177615284426771861944257216512.000 (max 180.0°)
+[2026-07-22 20:13:13.505] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:13.740] [warning] [Gimbal] Data sanity check failed: yaw=-27216079380943994880.000 (max 180.0°)
+[2026-07-22 20:13:14.344] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:15.012] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:13:15.076] [warning] [Gimbal] Data sanity check failed: yaw=-429365984.000 (max 180.0°)
+[2026-07-22 20:13:15.140] [warning] [Gimbal] Data sanity check failed: yaw=246267670528775839793828434867650560.000 (max 180.0°)
+[2026-07-22 20:13:15.181] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:15.538] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:13:16.019] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:16.739] [warning] [Gimbal] Data sanity check failed: yaw=2671870904046746983448952982231580672.000 (max 180.0°)
+[2026-07-22 20:13:16.840] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:16.876] [warning] [Gimbal] Data sanity check failed: yaw=344324326636392582952140511457050624.000 (max 180.0°)
+[2026-07-22 20:13:16.939] [warning] [Gimbal] Data sanity check failed: yaw=35361916977152.000 (max 180.0°)
+[2026-07-22 20:13:17.683] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:18.013] [warning] [Gimbal] Data sanity check failed: yaw=-58583642112.000 (max 180.0°)
+[2026-07-22 20:13:18.140] [warning] [Gimbal] Data sanity check failed: yaw=-8719.429 (max 180.0°)
+[2026-07-22 20:13:18.277] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:13:18.512] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:19.344] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:20.166] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:20.277] [warning] [Gimbal] Data sanity check failed: yaw=435444568536779849728.000 (max 180.0°)
+[2026-07-22 20:13:20.475] [warning] [Gimbal] Data sanity check failed: yaw=-1713298432.000 (max 180.0°)
+[2026-07-22 20:13:21.000] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:21.076] [warning] [Gimbal] Data sanity check failed: yaw=-2153819930624.000 (max 180.0°)
+[2026-07-22 20:13:21.407] [warning] [Gimbal] Data sanity check failed: yaw=-184328168407040.000 (max 180.0°)
+[2026-07-22 20:13:21.831] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:22.659] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:22.807] [warning] [Gimbal] Data sanity check failed: yaw=10687483616186987933795811928926322688.000 (max 180.0°)
+[2026-07-22 20:13:23.502] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:23.876] [warning] [Gimbal] Data sanity check failed: yaw=-9224976334848.000 (max 180.0°)
+[2026-07-22 20:13:24.139] [warning] [Gimbal] Data sanity check failed: yaw=-814837530624.000 (max 180.0°)
+[2026-07-22 20:13:24.277] [warning] [Gimbal] Data sanity check failed: yaw=54682856209113939968.000 (max 180.0°)
+[2026-07-22 20:13:24.347] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:25.181] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:25.277] [warning] [Gimbal] Data sanity check failed: yaw=36210602984603648.000 (max 180.0°)
+[2026-07-22 20:13:25.806] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:13:25.939] [warning] [Gimbal] Data sanity check failed: yaw=35361916977152.000 (max 180.0°)
+[2026-07-22 20:13:26.025] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:26.137] [warning] [Gimbal] Data sanity check failed: yaw=428830986250007267773516733940236288.000 (max 180.0°)
+[2026-07-22 20:13:26.213] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:13:26.739] [warning] [Gimbal] Data sanity check failed: yaw=3792634525508642055455873433600.000 (max 180.0°)
+[2026-07-22 20:13:26.868] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:27.137] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:13:27.276] [warning] [Gimbal] Data sanity check failed: yaw=6644214012051456.000 (max 180.0°)
+[2026-07-22 20:13:27.675] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:13:27.705] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:28.139] [warning] [Gimbal] Data sanity check failed: yaw=29922466296214457257838178729984.000 (max 180.0°)
+[2026-07-22 20:13:28.532] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:28.680] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:13:29.074] [warning] [Gimbal] Data sanity check failed: yaw=-53058142732288.000 (max 180.0°)
+[2026-07-22 20:13:29.137] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:13:29.335] [warning] [Gimbal] Data sanity check failed: yaw=462002867156779574751882463418515456.000 (max 180.0°)
+[2026-07-22 20:13:29.374] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:29.539] [warning] [Gimbal] Data sanity check failed: yaw=464325203056397691015424423690764288.000 (max 180.0°)
+[2026-07-22 20:13:29.679] [warning] [Gimbal] Data sanity check failed: yaw=-854410969613336576.000 (max 180.0°)
+[2026-07-22 20:13:30.216] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:30.411] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:13:30.475] [warning] [Gimbal] Data sanity check failed: yaw=-23524204871680.000 (max 180.0°)
+[2026-07-22 20:13:31.049] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:31.886] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:32.477] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:13:32.722] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:32.874] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:13:33.008] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:13:33.278] [warning] [Gimbal] Data sanity check failed: yaw=895917430946659378921472.000 (max 180.0°)
+[2026-07-22 20:13:33.559] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:34.138] [warning] [Gimbal] Data sanity check failed: yaw=495022629991524494202068588512149504.000 (max 180.0°)
+[2026-07-22 20:13:34.343] [warning] [Gimbal] Data sanity check failed: yaw=-2790028425293939393171554304.000 (max 180.0°)
+[2026-07-22 20:13:34.400] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:35.241] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:35.407] [warning] [Gimbal] Data sanity check failed: yaw=-2210119811072.000 (max 180.0°)
+[2026-07-22 20:13:35.676] [warning] [Gimbal] Data sanity check failed: yaw=-13474172474753024.000 (max 180.0°)
+[2026-07-22 20:13:36.074] [warning] [Gimbal] Data sanity check failed: yaw=883043508042902536192.000 (max 180.0°)
+[2026-07-22 20:13:36.091] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:36.210] [warning] [Gimbal] Data sanity check failed: yaw=1546924.750 (max 180.0°)
+[2026-07-22 20:13:36.337] [warning] [Gimbal] Data sanity check failed: yaw=510711073819949061274991787381882880.000 (max 180.0°)
+[2026-07-22 20:13:36.875] [warning] [Gimbal] Data sanity check failed: yaw=57339310488082577384013824.000 (max 180.0°)
+[2026-07-22 20:13:36.929] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:37.336] [warning] [Gimbal] Data sanity check failed: yaw=-276485.156 (max 180.0°)
+[2026-07-22 20:13:37.412] [warning] [Gimbal] Data sanity check failed: yaw=-21781862000356008711158265704087552.000 (max 180.0°)
+[2026-07-22 20:13:37.762] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:38.475] [warning] [Gimbal] Data sanity check failed: yaw=-1145925664768.000 (max 180.0°)
+[2026-07-22 20:13:38.594] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:38.672] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:13:38.810] [warning] [Gimbal] Data sanity check failed: yaw=-2667056988160.000 (max 180.0°)
+[2026-07-22 20:13:39.274] [warning] [Gimbal] Data sanity check failed: yaw=-2173528793617600438874406912.000 (max 180.0°)
+[2026-07-22 20:13:39.439] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:40.279] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:40.609] [warning] [Gimbal] Data sanity check failed: yaw=-917430960057681198775795712.000 (max 180.0°)
+[2026-07-22 20:13:41.009] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:13:41.120] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:41.951] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:42.536] [warning] [Gimbal] Data sanity check failed: yaw=-862348481493204992.000 (max 180.0°)
+[2026-07-22 20:13:42.676] [warning] [Gimbal] Data sanity check failed: yaw=96680.078 (max 180.0°)
+[2026-07-22 20:13:42.742] [warning] [Gimbal] Data sanity check failed: yaw=396002368.000 (max 180.0°)
+[2026-07-22 20:13:42.792] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:42.875] [warning] [Gimbal] Data sanity check failed: yaw=-3507796836352.000 (max 180.0°)
+[2026-07-22 20:13:43.633] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:44.341] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:13:44.466] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:44.674] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:13:44.736] [warning] [Gimbal] Data sanity check failed: yaw=-34533122048.000 (max 180.0°)
+[2026-07-22 20:13:45.306] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:45.936] [warning] [Gimbal] Data sanity check failed: yaw=970919003434107231036467289522176.000 (max 180.0°)
+[2026-07-22 20:13:46.151] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:46.274] [warning] [Gimbal] Data sanity check failed: yaw=593595140665271612462452229762187264.000 (max 180.0°)
+[2026-07-22 20:13:46.535] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:13:46.610] [warning] [Gimbal] Data sanity check failed: yaw=-654198112256.000 (max 180.0°)
+[2026-07-22 20:13:46.999] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:47.076] [warning] [Gimbal] Data sanity check failed: yaw=13670909765348229120.000 (max 180.0°)
+[2026-07-22 20:13:47.275] [warning] [Gimbal] Data sanity check failed: yaw=601403868362677505575671921507303424.000 (max 180.0°)
+[2026-07-22 20:13:47.844] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:47.941] [warning] [Gimbal] Data sanity check failed: yaw=-1066364416.000 (max 180.0°)
+[2026-07-22 20:13:48.609] [warning] [Gimbal] Data sanity check failed: yaw=-36569346048.000 (max 180.0°)
+[2026-07-22 20:13:48.675] [warning] [Gimbal] Data sanity check failed: yaw=-40194273280.000 (max 180.0°)
+[2026-07-22 20:13:48.684] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:48.807] [warning] [Gimbal] Data sanity check failed: yaw=-2335190914343837393485824.000 (max 180.0°)
+[2026-07-22 20:13:48.878] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:13:49.137] [warning] [Gimbal] Data sanity check failed: yaw=-3703766199614111350037413888.000 (max 180.0°)
+[2026-07-22 20:13:49.273] [warning] [Gimbal] Data sanity check failed: yaw=627213234583324256190144798768758784.000 (max 180.0°)
+[2026-07-22 20:13:49.477] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:13:49.524] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:49.537] [warning] [Gimbal] Data sanity check failed: yaw=3063.684 (max 180.0°)
+[2026-07-22 20:13:49.735] [warning] [Gimbal] Data sanity check failed: yaw=-159255916121408163514670907392.000 (max 180.0°)
+[2026-07-22 20:13:50.136] [warning] [Gimbal] Data sanity check failed: yaw=-225644998404788616087434394861568.000 (max 180.0°)
+[2026-07-22 20:13:50.273] [warning] [Gimbal] Data sanity check failed: yaw=-70942973952.000 (max 180.0°)
+[2026-07-22 20:13:50.379] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:50.537] [warning] [Gimbal] Data sanity check failed: yaw=-1371577213951286182299828307886080.000 (max 180.0°)
+[2026-07-22 20:13:51.074] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:13:51.206] [warning] [Gimbal] Data sanity check failed: yaw=644098340578364271818080885464367104.000 (max 180.0°)
+[2026-07-22 20:13:51.224] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:51.609] [warning] [Gimbal] Data sanity check failed: yaw=-70219456512.000 (max 180.0°)
+[2026-07-22 20:13:51.936] [warning] [Gimbal] Data sanity check failed: yaw=-323223747605496733279949130181902336.000 (max 180.0°)
+[2026-07-22 20:13:52.067] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:52.136] [warning] [Gimbal] Data sanity check failed: yaw=-325819896034764147094214378346512384.000 (max 180.0°)
+[2026-07-22 20:13:52.904] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:52.934] [warning] [Gimbal] Data sanity check failed: yaw=661216694283846281655892365549764608.000 (max 180.0°)
+[2026-07-22 20:13:53.409] [warning] [Gimbal] Data sanity check failed: yaw=-17464686592.000 (max 180.0°)
+[2026-07-22 20:13:53.746] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:53.809] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:13:53.935] [warning] [Gimbal] Data sanity check failed: yaw=-6802702630305923072.000 (max 180.0°)
+[2026-07-22 20:13:54.472] [warning] [Gimbal] Data sanity check failed: yaw=-39813979030352040878667726848.000 (max 180.0°)
+[2026-07-22 20:13:54.538] [warning] [Gimbal] Data sanity check failed: yaw=169765351792614309888.000 (max 180.0°)
+[2026-07-22 20:13:54.595] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:54.607] [warning] [Gimbal] Data sanity check failed: yaw=7659016180814876364294491257962496.000 (max 180.0°)
+[2026-07-22 20:13:54.876] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:13:55.071] [warning] [Gimbal] Data sanity check failed: yaw=42151124053025357824.000 (max 180.0°)
+[2026-07-22 20:13:55.436] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:55.735] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:13:56.010] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:13:56.076] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:13:56.270] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:56.336] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:13:56.876] [warning] [Gimbal] Data sanity check failed: yaw=-31295292687170522138391085056.000 (max 180.0°)
+[2026-07-22 20:13:56.935] [warning] [Gimbal] Data sanity check failed: yaw=151878276940735019220992.000 (max 180.0°)
+[2026-07-22 20:13:57.119] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:57.207] [warning] [Gimbal] Data sanity check failed: yaw=65891170852540078096384.000 (max 180.0°)
+[2026-07-22 20:13:57.806] [warning] [Gimbal] Data sanity check failed: yaw=-3137219.000 (max 180.0°)
+[2026-07-22 20:13:57.939] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:13:57.960] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:58.008] [warning] [Gimbal] Data sanity check failed: yaw=-144842411938414592.000 (max 180.0°)
+[2026-07-22 20:13:58.796] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:59.010] [warning] [Gimbal] Data sanity check failed: yaw=30259577809911305732096000.000 (max 180.0°)
+[2026-07-22 20:13:59.336] [warning] [Gimbal] Data sanity check failed: yaw=31370655886498412170108639946509123584.000 (max 180.0°)
+[2026-07-22 20:13:59.604] [warning] [Gimbal] Data sanity check failed: yaw=755032979905537083201860376373231616.000 (max 180.0°)
+[2026-07-22 20:13:59.640] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:13:59.734] [warning] [Gimbal] Data sanity check failed: yaw=757811670021237362049941149799415808.000 (max 180.0°)
+[2026-07-22 20:14:00.005] [warning] [Gimbal] Data sanity check failed: yaw=-14334873738880828619882496.000 (max 180.0°)
+[2026-07-22 20:14:00.472] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:14:00.484] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:00.674] [warning] [Gimbal] Data sanity check failed: yaw=820452089171489754972160.000 (max 180.0°)
+[2026-07-22 20:14:00.935] [warning] [Gimbal] Data sanity check failed: yaw=6500429954957747893086813245407232.000 (max 180.0°)
+[2026-07-22 20:14:01.328] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:01.472] [warning] [Gimbal] Data sanity check failed: yaw=797970841036467669489356707345727488.000 (max 180.0°)
+[2026-07-22 20:14:01.536] [warning] [Gimbal] Data sanity check failed: yaw=-118927864.000 (max 180.0°)
+[2026-07-22 20:14:01.873] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:14:02.172] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:02.473] [warning] [Gimbal] Data sanity check failed: yaw=814257615948199960839786350128398336.000 (max 180.0°)
+[2026-07-22 20:14:03.009] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:03.076] [warning] [Gimbal] Data sanity check failed: yaw=-9041561040601090056144189128704.000 (max 180.0°)
+[2026-07-22 20:14:03.534] [warning] [Gimbal] Data sanity check failed: yaw=-230433776.000 (max 180.0°)
+[2026-07-22 20:14:03.673] [warning] [Gimbal] Data sanity check failed: yaw=-883050052336111058944.000 (max 180.0°)
+[2026-07-22 20:14:03.861] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:04.008] [warning] [Gimbal] Data sanity check failed: yaw=-213606968651153408.000 (max 180.0°)
+[2026-07-22 20:14:04.076] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:14:04.136] [warning] [Gimbal] Data sanity check failed: yaw=183600409847896473600.000 (max 180.0°)
+[2026-07-22 20:14:04.706] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:05.009] [warning] [Gimbal] Data sanity check failed: yaw=28530135601082795712053248.000 (max 180.0°)
+[2026-07-22 20:14:05.135] [warning] [Gimbal] Data sanity check failed: yaw=866200866943151888795515260671885312.000 (max 180.0°)
+[2026-07-22 20:14:05.203] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:14:05.544] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:06.007] [warning] [Gimbal] Data sanity check failed: yaw=-17349813897602658947181838336.000 (max 180.0°)
+[2026-07-22 20:14:06.135] [warning] [Gimbal] Data sanity check failed: yaw=-46704525892450200322048.000 (max 180.0°)
+[2026-07-22 20:14:06.336] [warning] [Gimbal] Data sanity check failed: yaw=-76550648.000 (max 180.0°)
+[2026-07-22 20:14:06.390] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:06.406] [warning] [Gimbal] Data sanity check failed: yaw=-2192504258560.000 (max 180.0°)
+[2026-07-22 20:14:07.069] [warning] [Gimbal] Data sanity check failed: yaw=-10192378631770122464938938073088.000 (max 180.0°)
+[2026-07-22 20:14:07.221] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:08.049] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:08.881] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:09.073] [warning] [Gimbal] Data sanity check failed: yaw=-988907503616.000 (max 180.0°)
+[2026-07-22 20:14:09.672] [warning] [Gimbal] Data sanity check failed: yaw=-5827871.500 (max 180.0°)
+[2026-07-22 20:14:09.717] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:09.808] [warning] [Gimbal] Data sanity check failed: yaw=937189300555932735279330640172941312.000 (max 180.0°)
+[2026-07-22 20:14:10.471] [warning] [Gimbal] Data sanity check failed: yaw=-6084127.500 (max 180.0°)
+[2026-07-22 20:14:10.562] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:11.206] [warning] [Gimbal] Data sanity check failed: yaw=31369005405416915015427891238935724032.000 (max 180.0°)
+[2026-07-22 20:14:11.392] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:11.411] [warning] [Gimbal] Data sanity check failed: yaw=-20467326.000 (max 180.0°)
+[2026-07-22 20:14:11.806] [warning] [Gimbal] Data sanity check failed: yaw=977713554944028772786377248242401280.000 (max 180.0°)
+[2026-07-22 20:14:11.935] [warning] [Gimbal] Data sanity check failed: yaw=981384671082289725133111700725170176.000 (max 180.0°)
+[2026-07-22 20:14:12.240] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:12.334] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:14:12.803] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:14:13.004] [warning] [Gimbal] Data sanity check failed: yaw=-138136768.000 (max 180.0°)
+[2026-07-22 20:14:13.086] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:13.274] [warning] [Gimbal] Data sanity check failed: yaw=3035.552 (max 180.0°)
+[2026-07-22 20:14:13.672] [warning] [Gimbal] Data sanity check failed: yaw=-229359307987666565005836288.000 (max 180.0°)
+[2026-07-22 20:14:13.924] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:14.005] [warning] [Gimbal] Data sanity check failed: yaw=-59921660.000 (max 180.0°)
+[2026-07-22 20:14:14.733] [warning] [Gimbal] Data sanity check failed: yaw=-55190786600681340928.000 (max 180.0°)
+[2026-07-22 20:14:14.769] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:14.937] [warning] [Gimbal] Data sanity check failed: yaw=1027669129797822837040559328159858688.000 (max 180.0°)
+[2026-07-22 20:14:15.134] [warning] [Gimbal] Data sanity check failed: yaw=-4521759.500 (max 180.0°)
+[2026-07-22 20:14:15.336] [warning] [Gimbal] Data sanity check failed: yaw=-16732264966029685437675941222416384.000 (max 180.0°)
+[2026-07-22 20:14:15.535] [warning] [Gimbal] Data sanity check failed: yaw=1037972593876477885615924531813154816.000 (max 180.0°)
+[2026-07-22 20:14:15.618] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:15.735] [warning] [Gimbal] Data sanity check failed: yaw=835594.312 (max 180.0°)
+[2026-07-22 20:14:15.873] [warning] [Gimbal] Data sanity check failed: yaw=1294356.625 (max 180.0°)
+[2026-07-22 20:14:15.936] [warning] [Gimbal] Data sanity check failed: yaw=-7341471.500 (max 180.0°)
+[2026-07-22 20:14:16.006] [warning] [Gimbal] Data sanity check failed: yaw=12433545.000 (max 180.0°)
+[2026-07-22 20:14:16.467] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:16.808] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:14:17.293] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:17.472] [warning] [Gimbal] Data sanity check failed: yaw=-13670859187813351424.000 (max 180.0°)
+[2026-07-22 20:14:18.005] [warning] [Gimbal] Data sanity check failed: yaw=1091011094990027003774546593926086656.000 (max 180.0°)
+[2026-07-22 20:14:18.071] [warning] [Gimbal] Data sanity check failed: yaw=2263162686537728.000 (max 180.0°)
+[2026-07-22 20:14:18.135] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:18.208] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:14:18.933] [warning] [Gimbal] Data sanity check failed: yaw=1112814685313952549480289889058553856.000 (max 180.0°)
+[2026-07-22 20:14:18.980] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:19.272] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:14:19.811] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:19.934] [warning] [Gimbal] Data sanity check failed: yaw=1129507108417757874239198476866945024.000 (max 180.0°)
+[2026-07-22 20:14:20.071] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:14:20.334] [warning] [Gimbal] Data sanity check failed: yaw=-3499701108533431894016.000 (max 180.0°)
+[2026-07-22 20:14:20.472] [warning] [Gimbal] Data sanity check failed: yaw=34903251446923264.000 (max 180.0°)
+[2026-07-22 20:14:20.659] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:20.738] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:14:21.002] [warning] [Gimbal] Data sanity check failed: yaw=1148430596577964882744741262316797952.000 (max 180.0°)
+[2026-07-22 20:14:21.071] [warning] [Gimbal] Data sanity check failed: yaw=13211179941888.000 (max 180.0°)
+[2026-07-22 20:14:21.202] [warning] [Gimbal] Data sanity check failed: yaw=-13692223.000 (max 180.0°)
+[2026-07-22 20:14:21.507] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:21.805] [warning] [Gimbal] Data sanity check failed: yaw=1163987204743965713959908804053172224.000 (max 180.0°)
+[2026-07-22 20:14:22.072] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:14:22.340] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:22.404] [warning] [Gimbal] Data sanity check failed: yaw=50927456256.000 (max 180.0°)
+[2026-07-22 20:14:22.873] [warning] [Gimbal] Data sanity check failed: yaw=6087518431066466549760.000 (max 180.0°)
+[2026-07-22 20:14:23.183] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:24.010] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:24.133] [warning] [Gimbal] Data sanity check failed: yaw=1202645477448525797787952265004318720.000 (max 180.0°)
+[2026-07-22 20:14:24.206] [warning] [Gimbal] Data sanity check failed: yaw=-3903972179968.000 (max 180.0°)
+[2026-07-22 20:14:24.408] [warning] [Gimbal] Data sanity check failed: yaw=-218733447937850867712.000 (max 180.0°)
+[2026-07-22 20:14:24.854] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:24.869] [warning] [Gimbal] Data sanity check failed: yaw=6875860715082333496016896.000 (max 180.0°)
+[2026-07-22 20:14:25.137] [warning] [Gimbal] Data sanity check failed: yaw=-14678993350027418725550915584.000 (max 180.0°)
+[2026-07-22 20:14:25.206] [warning] [Gimbal] Data sanity check failed: yaw=-37079657456234135552.000 (max 180.0°)
+[2026-07-22 20:14:25.697] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:25.805] [warning] [Gimbal] Data sanity check failed: yaw=-386632.875 (max 180.0°)
+[2026-07-22 20:14:26.340] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:14:26.533] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:14:26.539] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:26.808] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:14:27.201] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:14:27.374] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:27.405] [warning] [Gimbal] Data sanity check failed: yaw=114115995281917013443739648.000 (max 180.0°)
+[2026-07-22 20:14:28.212] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:28.473] [warning] [Gimbal] Data sanity check failed: yaw=1914464212492021401416762057031680.000 (max 180.0°)
+[2026-07-22 20:14:28.532] [warning] [Gimbal] Data sanity check failed: yaw=2693807393675046581633950941184.000 (max 180.0°)
+[2026-07-22 20:14:29.058] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:29.134] [warning] [Gimbal] Data sanity check failed: yaw=1265683206496675189465580322001256448.000 (max 180.0°)
+[2026-07-22 20:14:29.807] [warning] [Gimbal] Data sanity check failed: yaw=631589715564298240.000 (max 180.0°)
+[2026-07-22 20:14:29.872] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:14:29.901] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:29.935] [warning] [Gimbal] Data sanity check failed: yaw=1288135833927917588624889929174876160.000 (max 180.0°)
+[2026-07-22 20:14:30.730] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:30.807] [warning] [Gimbal] Data sanity check failed: yaw=13037523173376.000 (max 180.0°)
+[2026-07-22 20:14:31.572] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:32.408] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:32.474] [warning] [Gimbal] Data sanity check failed: yaw=156185962803519916329007305231171584000.000 (max 180.0°)
+[2026-07-22 20:14:32.805] [warning] [Gimbal] Data sanity check failed: yaw=295409077135989020177343533952555548672.000 (max 180.0°)
+[2026-07-22 20:14:33.249] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:33.532] [warning] [Gimbal] Data sanity check failed: yaw=1334095774089792273805554400588988416.000 (max 180.0°)
+[2026-07-22 20:14:33.667] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:14:33.737] [warning] [Gimbal] Data sanity check failed: yaw=223983915379487743672320.000 (max 180.0°)
+[2026-07-22 20:14:34.002] [warning] [Gimbal] Data sanity check failed: yaw=-3137248.500 (max 180.0°)
+[2026-07-22 20:14:34.100] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:34.604] [warning] [Gimbal] Data sanity check failed: yaw=96653.562 (max 180.0°)
+[2026-07-22 20:14:34.805] [warning] [Gimbal] Data sanity check failed: yaw=-4475050262528.000 (max 180.0°)
+[2026-07-22 20:14:34.871] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:14:34.934] [warning] [Gimbal] Data sanity check failed: yaw=-14869.312 (max 180.0°)
+[2026-07-22 20:14:34.946] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:35.070] [warning] [Gimbal] Data sanity check failed: yaw=1393320410132455151443480374344155136.000 (max 180.0°)
+[2026-07-22 20:14:35.206] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:14:35.402] [warning] [Gimbal] Data sanity check failed: yaw=1394293965793430431623829842405883904.000 (max 180.0°)
+[2026-07-22 20:14:35.735] [warning] [Gimbal] Data sanity check failed: yaw=-9392.562 (max 180.0°)
+[2026-07-22 20:14:35.789] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:36.072] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:14:36.619] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:37.206] [warning] [Gimbal] Data sanity check failed: yaw=8377001984029347981295616.000 (max 180.0°)
+[2026-07-22 20:14:37.329] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:14:37.406] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:14:37.459] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:38.293] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:38.473] [warning] [Gimbal] Data sanity check failed: yaw=-11259.312 (max 180.0°)
+[2026-07-22 20:14:38.532] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:14:38.605] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:14:39.130] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:39.806] [warning] [Gimbal] Data sanity check failed: yaw=-5254.781 (max 180.0°)
+[2026-07-22 20:14:39.965] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:40.797] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:41.005] [warning] [Gimbal] Data sanity check failed: yaw=25336205312.000 (max 180.0°)
+[2026-07-22 20:14:41.470] [warning] [Gimbal] Data sanity check failed: yaw=-1393.726 (max 180.0°)
+[2026-07-22 20:14:41.534] [warning] [Gimbal] Data sanity check failed: yaw=17053701194061389921330099388416.000 (max 180.0°)
+[2026-07-22 20:14:41.642] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:41.871] [warning] [Gimbal] Data sanity check failed: yaw=14815267860215208794893844480.000 (max 180.0°)
+[2026-07-22 20:14:42.472] [warning] [Gimbal] Data sanity check failed: yaw=-1936.664 (max 180.0°)
+[2026-07-22 20:14:42.481] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:42.533] [warning] [Gimbal] Data sanity check failed: yaw=-2328269084918984128090603520.000 (max 180.0°)
+[2026-07-22 20:14:42.871] [warning] [Gimbal] Data sanity check failed: yaw=-114139067361658540619894129113167822848.000 (max 180.0°)
+[2026-07-22 20:14:43.328] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:44.172] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:44.470] [warning] [Gimbal] Data sanity check failed: yaw=-637023664485632654058683629568.000 (max 180.0°)
+[2026-07-22 20:14:44.605] [warning] [Gimbal] Data sanity check failed: yaw=1703113934418630765498850690486763520.000 (max 180.0°)
+[2026-07-22 20:14:45.004] [warning] [Gimbal] Data sanity check failed: yaw=822413164544.000 (max 180.0°)
+[2026-07-22 20:14:45.019] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:45.134] [warning] [Gimbal] Data sanity check failed: yaw=-795753472.000 (max 180.0°)
+[2026-07-22 20:14:45.203] [warning] [Gimbal] Data sanity check failed: yaw=1719948334389661651950726909054156800.000 (max 180.0°)
+[2026-07-22 20:14:45.671] [warning] [Gimbal] Data sanity check failed: yaw=-33434048021596862691672064.000 (max 180.0°)
+[2026-07-22 20:14:45.811] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:14:45.861] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:46.695] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:47.004] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:14:47.467] [warning] [Gimbal] Data sanity check failed: yaw=1811422001702130685562729012354088960.000 (max 180.0°)
+[2026-07-22 20:14:47.527] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:47.806] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:14:48.352] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:48.729] [warning] [Gimbal] Data sanity check failed: yaw=418359711629312.000 (max 180.0°)
+[2026-07-22 20:14:49.188] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:49.201] [warning] [Gimbal] Data sanity check failed: yaw=144842411938414592.000 (max 180.0°)
+[2026-07-22 20:14:49.803] [warning] [Gimbal] Data sanity check failed: yaw=1857706460417663797470176639788777472.000 (max 180.0°)
+[2026-07-22 20:14:50.036] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:50.666] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:14:50.871] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:51.203] [warning] [Gimbal] Data sanity check failed: yaw=14815298555597347447587733504.000 (max 180.0°)
+[2026-07-22 20:14:51.608] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:14:51.706] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:52.004] [warning] [Gimbal] Data sanity check failed: yaw=1918675383686240718764562077154541568.000 (max 180.0°)
+[2026-07-22 20:14:52.547] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:52.799] [warning] [Gimbal] Data sanity check failed: yaw=445702051772046881325056.000 (max 180.0°)
+[2026-07-22 20:14:52.871] [warning] [Gimbal] Data sanity check failed: yaw=-231489113718184848706764800.000 (max 180.0°)
+[2026-07-22 20:14:53.387] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:53.802] [warning] [Gimbal] Data sanity check failed: yaw=1967677685288663154508818636261556224.000 (max 180.0°)
+[2026-07-22 20:14:53.932] [warning] [Gimbal] Data sanity check failed: yaw=-8868126368865534173249536.000 (max 180.0°)
+[2026-07-22 20:14:54.241] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:54.398] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:14:54.471] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:14:54.533] [warning] [Gimbal] Data sanity check failed: yaw=-91047877550664832778240.000 (max 180.0°)
+[2026-07-22 20:14:54.671] [warning] [Gimbal] Data sanity check failed: yaw=3183020288.000 (max 180.0°)
+[2026-07-22 20:14:54.802] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:14:54.932] [warning] [Gimbal] Data sanity check failed: yaw=1983781918513962580825432753782652928.000 (max 180.0°)
+[2026-07-22 20:14:55.098] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:55.270] [warning] [Gimbal] Data sanity check failed: yaw=1987716705977071004887678520532140032.000 (max 180.0°)
+[2026-07-22 20:14:55.600] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:14:55.940] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:56.203] [warning] [Gimbal] Data sanity check failed: yaw=92375769152352477008027975680.000 (max 180.0°)
+[2026-07-22 20:14:56.775] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:57.405] [warning] [Gimbal] Data sanity check failed: yaw=-7858919357328699213775339287216128.000 (max 180.0°)
+[2026-07-22 20:14:57.469] [warning] [Gimbal] Data sanity check failed: yaw=-26565014823370752.000 (max 180.0°)
+[2026-07-22 20:14:57.531] [warning] [Gimbal] Data sanity check failed: yaw=-86017.289 (max 180.0°)
+[2026-07-22 20:14:57.612] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:57.869] [warning] [Gimbal] Data sanity check failed: yaw=12433573.000 (max 180.0°)
+[2026-07-22 20:14:58.005] [warning] [Gimbal] Data sanity check failed: yaw=-8111358464.000 (max 180.0°)
+[2026-07-22 20:14:58.456] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:58.931] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:14:59.295] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:14:59.331] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:14:59.800] [warning] [Gimbal] Data sanity check failed: yaw=25942426648576.000 (max 180.0°)
+[2026-07-22 20:14:59.932] [warning] [Gimbal] Data sanity check failed: yaw=2146852491727322011033968654122221568.000 (max 180.0°)
+[2026-07-22 20:15:00.135] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:00.204] [warning] [Gimbal] Data sanity check failed: yaw=2846512.250 (max 180.0°)
+[2026-07-22 20:15:00.802] [warning] [Gimbal] Data sanity check failed: yaw=-3976242432.000 (max 180.0°)
+[2026-07-22 20:15:00.932] [warning] [Gimbal] Data sanity check failed: yaw=834414569324544.000 (max 180.0°)
+[2026-07-22 20:15:00.974] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:01.203] [warning] [Gimbal] Data sanity check failed: yaw=-151878276940735019220992.000 (max 180.0°)
+[2026-07-22 20:15:01.816] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:02.643] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:02.732] [warning] [Gimbal] Data sanity check failed: yaw=73285407177158477291307210375168.000 (max 180.0°)
+[2026-07-22 20:15:02.929] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:15:03.333] [warning] [Gimbal] Data sanity check failed: yaw=593274519299746168832.000 (max 180.0°)
+[2026-07-22 20:15:03.482] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:03.672] [warning] [Gimbal] Data sanity check failed: yaw=2268506384530024730236804267335745536.000 (max 180.0°)
+[2026-07-22 20:15:04.269] [warning] [Gimbal] Data sanity check failed: yaw=2289600090517822467477709408673202176.000 (max 180.0°)
+[2026-07-22 20:15:04.323] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:04.729] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:15:04.801] [warning] [Gimbal] Data sanity check failed: yaw=2294021655811418531630129909453553664.000 (max 180.0°)
+[2026-07-22 20:15:05.166] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:05.330] [warning] [Gimbal] Data sanity check failed: yaw=21213977346310144.000 (max 180.0°)
+[2026-07-22 20:15:05.468] [warning] [Gimbal] Data sanity check failed: yaw=163715057896522654704155492352.000 (max 180.0°)
+[2026-07-22 20:15:05.868] [warning] [Gimbal] Data sanity check failed: yaw=-213923816978513920.000 (max 180.0°)
+[2026-07-22 20:15:06.011] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:06.471] [warning] [Gimbal] Data sanity check failed: yaw=-6810850011467743232.000 (max 180.0°)
+[2026-07-22 20:15:06.857] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:07.686] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:07.804] [warning] [Gimbal] Data sanity check failed: yaw=51394465792.000 (max 180.0°)
+[2026-07-22 20:15:07.871] [warning] [Gimbal] Data sanity check failed: yaw=10174084.000 (max 180.0°)
+[2026-07-22 20:15:08.526] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:09.361] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:09.470] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:15:09.530] [warning] [Gimbal] Data sanity check failed: yaw=88097203159040.000 (max 180.0°)
+[2026-07-22 20:15:09.602] [warning] [Gimbal] Data sanity check failed: yaw=369183430275843247101516422578176.000 (max 180.0°)
+[2026-07-22 20:15:09.668] [warning] [Gimbal] Data sanity check failed: yaw=374323357318956146002897586356224.000 (max 180.0°)
+[2026-07-22 20:15:09.867] [warning] [Gimbal] Data sanity check failed: yaw=101496086528.000 (max 180.0°)
+[2026-07-22 20:15:10.068] [warning] [Gimbal] Data sanity check failed: yaw=12749133676806144.000 (max 180.0°)
+[2026-07-22 20:15:10.218] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:10.400] [warning] [Gimbal] Data sanity check failed: yaw=12749133676806144.000 (max 180.0°)
+[2026-07-22 20:15:10.531] [warning] [Gimbal] Data sanity check failed: yaw=387277161890038365199442022236160.000 (max 180.0°)
+[2026-07-22 20:15:10.600] [warning] [Gimbal] Data sanity check failed: yaw=389782752529551974875837849665536.000 (max 180.0°)
+[2026-07-22 20:15:11.054] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:11.532] [warning] [Gimbal] Data sanity check failed: yaw=12749133676806144.000 (max 180.0°)
+[2026-07-22 20:15:11.895] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:12.065] [warning] [Gimbal] Data sanity check failed: yaw=12749133676806144.000 (max 180.0°)
+[2026-07-22 20:15:12.599] [warning] [Gimbal] Data sanity check failed: yaw=416215248248373414505483950096384.000 (max 180.0°)
+[2026-07-22 20:15:12.737] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:12.865] [warning] [Gimbal] Data sanity check failed: yaw=12749133676806144.000 (max 180.0°)
+[2026-07-22 20:15:12.932] [warning] [Gimbal] Invalid mode: 90
+[2026-07-22 20:15:13.066] [warning] [Gimbal] Data sanity check failed: yaw=12749133676806144.000 (max 180.0°)
+[2026-07-22 20:15:13.569] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:13.930] [warning] [Gimbal] Data sanity check failed: yaw=-17465667714526899953209442304.000 (max 180.0°)
+[2026-07-22 20:15:14.331] [warning] [Gimbal] Data sanity check failed: yaw=12749133676806144.000 (max 180.0°)
+[2026-07-22 20:15:14.400] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:14.529] [warning] [Gimbal] Data sanity check failed: yaw=254493656196276956554500679194793476096.000 (max 180.0°)
+[2026-07-22 20:15:15.237] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:16.116] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:16.171] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:16.182] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:16.248] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:16.314] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:16.381] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:16.448] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:16.514] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:16.581] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:16.647] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:16.714] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:16.780] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:16.847] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:16.914] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:16.981] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:17.048] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:17.114] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:17.169] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:17.181] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:17.247] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:17.314] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:17.380] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:17.447] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:17.514] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:17.581] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:17.647] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:17.714] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:17.781] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:17.848] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:17.914] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:17.981] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:18.048] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:18.114] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:18.169] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:18.180] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:18.247] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:18.314] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:18.380] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:18.447] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:18.514] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:18.581] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:18.647] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:18.714] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:18.781] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:18.847] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:18.914] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:18.981] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:19.047] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:19.115] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:19.169] [info] [Gimbal] Diag: latency=0.02ms, serial_ok=yes
+[2026-07-22 20:15:19.181] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:19.248] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:19.314] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:19.381] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:19.447] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:19.514] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:19.580] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:19.647] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:19.714] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:19.781] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:19.848] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:19.914] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:19.981] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:20.047] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:20.114] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:20.169] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:20.181] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:20.247] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:20.314] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:20.380] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:20.447] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:20.514] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:20.580] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:20.648] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:20.714] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:20.780] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:20.848] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:20.914] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:20.980] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:21.047] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:21.114] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:21.170] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:21.181] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:21.247] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:21.314] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:21.381] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:21.447] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:21.514] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:21.580] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:21.647] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:21.714] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:21.781] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:21.847] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:21.914] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:21.981] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:22.047] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:22.114] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:22.170] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:22.180] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:22.247] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:22.314] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:22.380] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:22.447] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:22.513] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:22.581] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:22.647] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:22.714] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:22.780] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:22.847] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:22.914] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:22.980] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:23.047] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:23.113] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:23.170] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:23.180] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:23.247] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:23.314] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:23.381] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:23.447] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:23.514] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:23.580] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:23.647] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:23.714] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:23.780] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:23.847] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:23.914] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:23.981] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:24.047] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:24.114] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:24.171] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:24.180] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:24.246] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:24.313] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:24.380] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:24.447] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:24.514] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:24.581] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:24.647] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:24.714] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:24.780] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:24.847] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:24.914] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:24.980] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:25.047] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:25.114] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:25.168] [info] [Gimbal] Diag: latency=0.01ms, serial_ok=yes
+[2026-07-22 20:15:25.180] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:25.247] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:25.313] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:25.379] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:25.447] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:25.514] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:25.580] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:25.647] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:25.714] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:25.780] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:25.847] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:25.913] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:25.980] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:26.047] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:26.113] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:26.168] [info] [Gimbal] Diag: latency=0.02ms, serial_ok=yes
+[2026-07-22 20:15:26.180] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:26.247] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:26.312] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:26.380] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:26.447] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:26.514] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:26.580] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:26.647] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:26.713] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:26.780] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:26.846] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:26.913] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:26.981] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:27.047] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:27.114] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:27.169] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes
+[2026-07-22 20:15:27.180] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:27.247] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:27.313] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:27.380] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:27.447] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:27.514] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:27.580] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:27.647] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:27.713] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:27.780] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:27.847] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:27.914] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:27.981] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:28.046] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:28.113] [debug] [MultiThreadDetector] queue is full!
+[2026-07-22 20:15:28.169] [info] [Gimbal] Diag: latency=0.00ms, serial_ok=yes

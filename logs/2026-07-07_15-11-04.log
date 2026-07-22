@@ -1,0 +1,481 @@
+[2026-07-07 15:11:04.131] [warning] [Gimbal] Configured com_port '/dev/gimbal' not found, fallback to '/dev/ttyUSB0'.
+[2026-07-07 15:11:04.233] [info] [Gimbal] read_thread started.
+[2026-07-07 15:11:04.233] [warning] [Gimbal] Tail check failed: got [0xa5 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.233] [warning] [Gimbal] Full buffer dump: 5a a5 00 cc 88 77 3f bf ff 34 3d 53 3c 32 be c4 a7 2f 3e c4 db 57 42 eb c9 5a a5 00 04 89 77 3f 91 20 35 3d e2 37 32 be 43 a5 2f
+[2026-07-07 15:11:04.233] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.594, yaw_vel=0.615, pitch_vel=-0.255
+[2026-07-07 15:11:04.233] [warning] [Gimbal] Tail check failed: got [0xad 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.233] [warning] [Gimbal] Full buffer dump: 5a a5 00 89 88 77 3f 54 65 35 3d 96 39 32 be 91 a9 2f 3e c4 db 57 42 2b ec 5a a5 00 6d 88 77 3f 3c 3d 35 3d 8d 3b 32 be 2c ad 2f
+[2026-07-07 15:11:04.233] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.596, yaw_vel=-0.118, pitch_vel=0.234
+[2026-07-07 15:11:04.233] [warning] [Gimbal] Tail check failed: got [0xaf 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.233] [warning] [Gimbal] Full buffer dump: 5a a5 00 52 88 77 3f 38 38 35 3d da 3b 32 be 18 af 2f 3e c4 08 58 42 55 58 5a a5 00 2a 88 77 3f f0 65 35 3d d8 3b 32 be 0d af 2f
+[2026-07-07 15:11:04.233] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.596, yaw_vel=-0.118, pitch_vel=0.295
+[2026-07-07 15:11:04.233] [warning] [Gimbal] Tail check failed: got [0xa7 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.233] [warning] [Gimbal] Full buffer dump: 5a a5 00 88 88 77 3f 36 12 35 3d 65 40 32 be e2 a8 2f 3e c4 db 57 42 55 58 5a a5 00 91 88 77 3f 61 f7 34 3d 54 42 32 be bc a7 2f
+[2026-07-07 15:11:04.233] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.597, yaw_vel=-1.766, pitch_vel=0.600
+[2026-07-07 15:11:04.233] [warning] [Gimbal] Tail check failed: got [0xaf 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.233] [warning] [Gimbal] Full buffer dump: 5a a5 00 73 88 77 3f 5f 5d 35 3d c0 37 32 be 7a ad 2f 3e c4 db 57 42 2b 6c 5a a5 00 52 88 77 3f 65 4a 35 3d ca 39 32 be de af 2f
+[2026-07-07 15:11:04.233] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.596, yaw_vel=0.004, pitch_vel=-0.010
+[2026-07-07 15:11:04.233] [warning] [Gimbal] Tail check failed: got [0xb2 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.233] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.595, yaw_vel=1.164, pitch_vel=0.356
+[2026-07-07 15:11:04.233] [warning] [Gimbal] Tail check failed: got [0xb1 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.237] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.594, yaw_vel=-1.400, pitch_vel=-0.560
+[2026-07-07 15:11:04.239] [warning] [Gimbal] Tail check failed: got [0xb3 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.242] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.593, yaw_vel=0.920, pitch_vel=-0.071
+[2026-07-07 15:11:04.245] [warning] [Gimbal] Tail check failed: got [0xb3 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.248] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.594, yaw_vel=-0.667, pitch_vel=-0.132
+[2026-07-07 15:11:04.251] [warning] [Gimbal] Tail check failed: got [0xb1 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.254] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.593, yaw_vel=-0.118, pitch_vel=1.454
+[2026-07-07 15:11:04.257] [warning] [Gimbal] Tail check failed: got [0xab 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.259] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.594, yaw_vel=0.309, pitch_vel=0.905
+[2026-07-07 15:11:04.262] [warning] [Gimbal] Tail check failed: got [0xb0 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.266] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.594, yaw_vel=0.859, pitch_vel=-0.865
+[2026-07-07 15:11:04.268] [warning] [Gimbal] Tail check failed: got [0xb0 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.271] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.596, yaw_vel=-0.423, pitch_vel=-0.255
+[2026-07-07 15:11:04.274] [warning] [Gimbal] Tail check failed: got [0xac 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.277] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.592, yaw_vel=0.554, pitch_vel=0.539
+[2026-07-07 15:11:04.280] [warning] [Gimbal] Tail check failed: got [0xb2 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.286] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.593, yaw_vel=-1.155, pitch_vel=0.234
+[2026-07-07 15:11:04.288] [warning] [Gimbal] Tail check failed: got [0xad 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.294] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.592, yaw_vel=-0.301, pitch_vel=0.539
+[2026-07-07 15:11:04.300] [warning] [Gimbal] Tail check failed: got [0xad 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.306] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.590, yaw_vel=-0.972, pitch_vel=0.356
+[2026-07-07 15:11:04.309] [warning] [Gimbal] Tail check failed: got [0xa6 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.315] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.590, yaw_vel=0.554, pitch_vel=0.478
+[2026-07-07 15:11:04.320] [warning] [Gimbal] Tail check failed: got [0xa3 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.326] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.588, yaw_vel=0.431, pitch_vel=1.027
+[2026-07-07 15:11:04.329] [warning] [Gimbal] Tail check failed: got [0xa7 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.329] [info] [Gimbal] Flushed input buffer to resync
+[2026-07-07 15:11:04.335] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.587, yaw_vel=0.737, pitch_vel=0.295
+[2026-07-07 15:11:04.340] [warning] [Gimbal] Tail check failed: got [0xa9 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.346] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.586, yaw_vel=0.981, pitch_vel=0.966
+[2026-07-07 15:11:04.349] [warning] [Gimbal] Tail check failed: got [0xa4 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.355] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.584, yaw_vel=-0.118, pitch_vel=-0.255
+[2026-07-07 15:11:04.357] [warning] [Gimbal] Tail check failed: got [0xaa 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.366] [warning] [Gimbal] Data sanity check failed: yaw=54.009, pitch=-20.583, yaw_vel=0.676, pitch_vel=-0.621
+[2026-07-07 15:11:04.369] [warning] [Gimbal] Tail check failed: got [0xa9 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.375] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.583, yaw_vel=1.042, pitch_vel=-0.743
+[2026-07-07 15:11:04.378] [warning] [Gimbal] Tail check failed: got [0xa9 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.387] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.584, yaw_vel=0.309, pitch_vel=0.295
+[2026-07-07 15:11:04.389] [warning] [Gimbal] Tail check failed: got [0xa4 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.395] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.586, yaw_vel=-0.179, pitch_vel=-0.010
+[2026-07-07 15:11:04.398] [warning] [Gimbal] Tail check failed: got [0xa4 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.404] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.588, yaw_vel=0.187, pitch_vel=-0.987
+[2026-07-07 15:11:04.410] [warning] [Gimbal] Tail check failed: got [0xaf 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.415] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.592, yaw_vel=-0.362, pitch_vel=-0.377
+[2026-07-07 15:11:04.418] [warning] [Gimbal] Tail check failed: got [0xa4 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.424] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.588, yaw_vel=0.126, pitch_vel=-0.255
+[2026-07-07 15:11:04.430] [warning] [Gimbal] Tail check failed: got [0xa7 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.436] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.589, yaw_vel=-0.118, pitch_vel=-0.499
+[2026-07-07 15:11:04.438] [warning] [Gimbal] Tail check failed: got [0xac 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.444] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.588, yaw_vel=-0.179, pitch_vel=0.234
+[2026-07-07 15:11:04.450] [warning] [Gimbal] Tail check failed: got [0xac 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.456] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.590, yaw_vel=-1.155, pitch_vel=-0.438
+[2026-07-07 15:11:04.459] [warning] [Gimbal] Tail check failed: got [0xa5 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.464] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.587, yaw_vel=1.225, pitch_vel=0.112
+[2026-07-07 15:11:04.470] [warning] [Gimbal] Tail check failed: got [0xa7 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.476] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.588, yaw_vel=0.309, pitch_vel=-1.048
+[2026-07-07 15:11:04.479] [warning] [Gimbal] Tail check failed: got [0xac 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.485] [warning] [Gimbal] Data sanity check failed: yaw=54.009, pitch=-20.587, yaw_vel=0.248, pitch_vel=0.661
+[2026-07-07 15:11:04.490] [warning] [Gimbal] Tail check failed: got [0xa9 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.496] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.588, yaw_vel=1.652, pitch_vel=-0.010
+[2026-07-07 15:11:04.499] [warning] [Gimbal] Tail check failed: got [0xaf 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.505] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.588, yaw_vel=0.370, pitch_vel=0.417
+[2026-07-07 15:11:04.510] [warning] [Gimbal] Tail check failed: got [0xb4 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.516] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.591, yaw_vel=0.920, pitch_vel=0.417
+[2026-07-07 15:11:04.519] [warning] [Gimbal] Tail check failed: got [0xaf 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.525] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.591, yaw_vel=0.370, pitch_vel=-0.438
+[2026-07-07 15:11:04.528] [warning] [Gimbal] Tail check failed: got [0xb7 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.528] [info] [Gimbal] Flushed input buffer to resync
+[2026-07-07 15:11:04.536] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.589, yaw_vel=0.920, pitch_vel=-0.499
+[2026-07-07 15:11:04.539] [warning] [Gimbal] Tail check failed: got [0xb7 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.545] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.587, yaw_vel=0.065, pitch_vel=0.295
+[2026-07-07 15:11:04.548] [warning] [Gimbal] Tail check failed: got [0xbb 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.557] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.584, yaw_vel=0.065, pitch_vel=0.478
+[2026-07-07 15:11:04.559] [warning] [Gimbal] Tail check failed: got [0xbf 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.565] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.583, yaw_vel=1.164, pitch_vel=-0.560
+[2026-07-07 15:11:04.568] [warning] [Gimbal] Tail check failed: got [0xbe 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.574] [warning] [Gimbal] Data sanity check failed: yaw=54.009, pitch=-20.581, yaw_vel=0.126, pitch_vel=1.515
+[2026-07-07 15:11:04.580] [warning] [Gimbal] Tail check failed: got [0xc1 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.586] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.582, yaw_vel=0.187, pitch_vel=0.112
+[2026-07-07 15:11:04.588] [warning] [Gimbal] Tail check failed: got [0xc1 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.594] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.583, yaw_vel=-0.789, pitch_vel=-0.316
+[2026-07-07 15:11:04.600] [warning] [Gimbal] Tail check failed: got [0xc0 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.606] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.581, yaw_vel=-0.057, pitch_vel=-0.071
+[2026-07-07 15:11:04.608] [warning] [Gimbal] Tail check failed: got [0xcc 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.614] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.585, yaw_vel=-0.362, pitch_vel=-0.194
+[2026-07-07 15:11:04.620] [warning] [Gimbal] Tail check failed: got [0xc3 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.626] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.585, yaw_vel=0.615, pitch_vel=-0.132
+[2026-07-07 15:11:04.629] [warning] [Gimbal] Tail check failed: got [0xcb 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.635] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.585, yaw_vel=0.065, pitch_vel=0.112
+[2026-07-07 15:11:04.640] [warning] [Gimbal] Tail check failed: got [0xce 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.646] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.584, yaw_vel=-0.484, pitch_vel=0.539
+[2026-07-07 15:11:04.649] [warning] [Gimbal] Tail check failed: got [0xc7 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.655] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.585, yaw_vel=1.286, pitch_vel=0.356
+[2026-07-07 15:11:04.660] [warning] [Gimbal] Tail check failed: got [0xcb 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.666] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.583, yaw_vel=0.676, pitch_vel=-0.560
+[2026-07-07 15:11:04.669] [warning] [Gimbal] Tail check failed: got [0xc7 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.675] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.584, yaw_vel=-0.423, pitch_vel=0.051
+[2026-07-07 15:11:04.678] [warning] [Gimbal] Tail check failed: got [0xc6 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.686] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.586, yaw_vel=-0.118, pitch_vel=-0.621
+[2026-07-07 15:11:04.689] [warning] [Gimbal] Tail check failed: got [0xc9 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.695] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.587, yaw_vel=0.676, pitch_vel=-0.499
+[2026-07-07 15:11:04.698] [warning] [Gimbal] Tail check failed: got [0xc5 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.707] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.585, yaw_vel=-0.728, pitch_vel=0.905
+[2026-07-07 15:11:04.709] [warning] [Gimbal] Tail check failed: got [0xc4 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.715] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.585, yaw_vel=0.187, pitch_vel=-0.438
+[2026-07-07 15:11:04.718] [warning] [Gimbal] Tail check failed: got [0xbd 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.724] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.585, yaw_vel=0.737, pitch_vel=-0.621
+[2026-07-07 15:11:04.730] [warning] [Gimbal] Tail check failed: got [0xbe 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.730] [info] [Gimbal] Flushed input buffer to resync
+[2026-07-07 15:11:04.735] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.586, yaw_vel=-0.179, pitch_vel=0.661
+[2026-07-07 15:11:04.738] [warning] [Gimbal] Tail check failed: got [0xba 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.744] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.584, yaw_vel=-0.057, pitch_vel=0.722
+[2026-07-07 15:11:04.750] [warning] [Gimbal] Tail check failed: got [0xba 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.756] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.583, yaw_vel=0.187, pitch_vel=-0.071
+[2026-07-07 15:11:04.758] [warning] [Gimbal] Tail check failed: got [0xbc 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.764] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.582, yaw_vel=0.065, pitch_vel=0.478
+[2026-07-07 15:11:04.770] [warning] [Gimbal] Tail check failed: got [0xaf 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.776] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.583, yaw_vel=0.676, pitch_vel=-0.438
+[2026-07-07 15:11:04.778] [warning] [Gimbal] Tail check failed: got [0xb6 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.784] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.580, yaw_vel=0.554, pitch_vel=0.112
+[2026-07-07 15:11:04.790] [warning] [Gimbal] Tail check failed: got [0xb6 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.796] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.581, yaw_vel=0.248, pitch_vel=0.173
+[2026-07-07 15:11:04.799] [warning] [Gimbal] Tail check failed: got [0xaf 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.805] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.583, yaw_vel=0.187, pitch_vel=-0.010
+[2026-07-07 15:11:04.810] [warning] [Gimbal] Tail check failed: got [0xb7 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.816] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.582, yaw_vel=1.469, pitch_vel=0.478
+[2026-07-07 15:11:04.819] [warning] [Gimbal] Tail check failed: got [0xbe 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.825] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.582, yaw_vel=-0.301, pitch_vel=0.356
+[2026-07-07 15:11:04.830] [warning] [Gimbal] Tail check failed: got [0xba 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.836] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.582, yaw_vel=-0.118, pitch_vel=0.234
+[2026-07-07 15:11:04.839] [warning] [Gimbal] Tail check failed: got [0xc8 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.845] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.581, yaw_vel=0.126, pitch_vel=-0.682
+[2026-07-07 15:11:04.848] [warning] [Gimbal] Tail check failed: got [0xc4 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.856] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.579, yaw_vel=-0.423, pitch_vel=0.661
+[2026-07-07 15:11:04.859] [warning] [Gimbal] Tail check failed: got [0xc5 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.865] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.579, yaw_vel=0.126, pitch_vel=-0.682
+[2026-07-07 15:11:04.868] [warning] [Gimbal] Tail check failed: got [0xcb 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.877] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.578, yaw_vel=-0.179, pitch_vel=0.173
+[2026-07-07 15:11:04.879] [warning] [Gimbal] Tail check failed: got [0xcf 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.885] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.581, yaw_vel=0.248, pitch_vel=0.173
+[2026-07-07 15:11:04.888] [warning] [Gimbal] Tail check failed: got [0xd5 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.894] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.578, yaw_vel=-0.240, pitch_vel=0.600
+[2026-07-07 15:11:04.899] [warning] [Gimbal] Tail check failed: got [0xd4 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.906] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.579, yaw_vel=0.004, pitch_vel=0.051
+[2026-07-07 15:11:04.908] [warning] [Gimbal] Tail check failed: got [0xda 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.914] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.581, yaw_vel=-0.972, pitch_vel=0.356
+[2026-07-07 15:11:04.920] [warning] [Gimbal] Tail check failed: got [0xd3 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.926] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.580, yaw_vel=-0.118, pitch_vel=0.112
+[2026-07-07 15:11:04.929] [warning] [Gimbal] Tail check failed: got [0xd2 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.929] [info] [Gimbal] Flushed input buffer to resync
+[2026-07-07 15:11:04.934] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.580, yaw_vel=-1.094, pitch_vel=-0.194
+[2026-07-07 15:11:04.940] [warning] [Gimbal] Tail check failed: got [0xd2 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.946] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.581, yaw_vel=-0.118, pitch_vel=0.112
+[2026-07-07 15:11:04.949] [warning] [Gimbal] Tail check failed: got [0xd0 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.955] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.580, yaw_vel=-0.850, pitch_vel=0.417
+[2026-07-07 15:11:04.960] [warning] [Gimbal] Tail check failed: got [0xd4 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.966] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.578, yaw_vel=0.859, pitch_vel=0.356
+[2026-07-07 15:11:04.969] [warning] [Gimbal] Tail check failed: got [0xd0 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.975] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.577, yaw_vel=-0.301, pitch_vel=-0.438
+[2026-07-07 15:11:04.980] [warning] [Gimbal] Tail check failed: got [0xcf 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.986] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.577, yaw_vel=-0.057, pitch_vel=0.112
+[2026-07-07 15:11:04.989] [warning] [Gimbal] Tail check failed: got [0xce 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:04.995] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.575, yaw_vel=0.615, pitch_vel=-0.194
+[2026-07-07 15:11:04.998] [warning] [Gimbal] Tail check failed: got [0xd0 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.006] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.577, yaw_vel=-0.484, pitch_vel=-1.048
+[2026-07-07 15:11:05.009] [warning] [Gimbal] Tail check failed: got [0xd5 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.015] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.578, yaw_vel=0.004, pitch_vel=0.295
+[2026-07-07 15:11:05.018] [warning] [Gimbal] Tail check failed: got [0xde 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.026] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.580, yaw_vel=-0.057, pitch_vel=0.722
+[2026-07-07 15:11:05.029] [warning] [Gimbal] Tail check failed: got [0xdd 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.035] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.580, yaw_vel=0.493, pitch_vel=-0.316
+[2026-07-07 15:11:05.038] [warning] [Gimbal] Tail check failed: got [0xe7 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.044] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.582, yaw_vel=-0.240, pitch_vel=-0.438
+[2026-07-07 15:11:05.049] [warning] [Gimbal] Tail check failed: got [0xde 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.055] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.583, yaw_vel=-0.301, pitch_vel=-0.865
+[2026-07-07 15:11:05.058] [warning] [Gimbal] Tail check failed: got [0xdc 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.064] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.582, yaw_vel=0.065, pitch_vel=0.234
+[2026-07-07 15:11:05.070] [warning] [Gimbal] Tail check failed: got [0xe4 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.076] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.585, yaw_vel=-0.179, pitch_vel=0.417
+[2026-07-07 15:11:05.078] [warning] [Gimbal] Tail check failed: got [0xdd 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.084] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.584, yaw_vel=0.370, pitch_vel=-0.255
+[2026-07-07 15:11:05.090] [warning] [Gimbal] Tail check failed: got [0xd9 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.096] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.583, yaw_vel=-0.057, pitch_vel=0.112
+[2026-07-07 15:11:05.099] [warning] [Gimbal] Tail check failed: got [0xd4 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.105] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.584, yaw_vel=0.737, pitch_vel=0.478
+[2026-07-07 15:11:05.110] [warning] [Gimbal] Tail check failed: got [0xda 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.116] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.584, yaw_vel=0.187, pitch_vel=0.234
+[2026-07-07 15:11:05.119] [warning] [Gimbal] Tail check failed: got [0xd2 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.125] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.584, yaw_vel=0.737, pitch_vel=-0.010
+[2026-07-07 15:11:05.130] [warning] [Gimbal] Tail check failed: got [0xcf 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.130] [info] [Gimbal] Flushed input buffer to resync
+[2026-07-07 15:11:05.136] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.586, yaw_vel=0.615, pitch_vel=-0.560
+[2026-07-07 15:11:05.139] [warning] [Gimbal] Tail check failed: got [0xd3 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.139] [warning] [Gimbal] Too many consecutive errors (>100), attempting to reconnect...
+[2026-07-07 15:11:05.139] [warning] [Gimbal] Reconnecting serial, attempt 1/15...
+[2026-07-07 15:11:05.747] [info] [Gimbal] Reconnected serial successfully.
+[2026-07-07 15:11:05.751] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.584, yaw_vel=0.248, pitch_vel=0.112
+[2026-07-07 15:11:05.756] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.584, yaw_vel=-0.179, pitch_vel=0.417
+[2026-07-07 15:11:05.759] [warning] [Gimbal] Tail check failed: got [0xc3 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.759] [warning] [Gimbal] Full buffer dump: 5a a5 00 2b 89 77 3f dc e4 33 3d af 2d 32 be 5c c0 2f 3e c4 db 57 42 d6 93 5a a5 00 fd 88 77 3f de ec 33 3d 16 2e 32 be 8c c3 2f
+[2026-07-07 15:11:05.765] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.583, yaw_vel=0.493, pitch_vel=0.600
+[2026-07-07 15:11:05.768] [warning] [Gimbal] Tail check failed: got [0xc8 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.768] [warning] [Gimbal] Full buffer dump: 5a a5 00 a2 88 77 3f a1 32 34 3d e8 29 32 be 93 ca 2f 3e c4 db 57 42 2b ac 5a a5 00 c6 88 77 3f e3 2e 34 3d a3 29 32 be 5a c8 2f
+[2026-07-07 15:11:05.777] [warning] [Gimbal] Data sanity check failed: yaw=54.009, pitch=-20.583, yaw_vel=0.187, pitch_vel=-0.071
+[2026-07-07 15:11:05.779] [warning] [Gimbal] Tail check failed: got [0xcb 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.779] [warning] [Gimbal] Full buffer dump: 5a a5 00 f5 88 77 3f 41 d5 33 3d 1d 2a 32 be 29 ca 2f 3e c4 db 57 42 0c 9b 5a a5 00 c9 88 77 3f 44 ed 33 3d ff 2a 32 be 29 cb 2f
+[2026-07-07 15:11:05.785] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.581, yaw_vel=-1.400, pitch_vel=1.149
+[2026-07-07 15:11:05.788] [warning] [Gimbal] Tail check failed: got [0xc4 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.788] [warning] [Gimbal] Full buffer dump: 5a a5 00 f6 88 77 3f 7a 00 34 3d 94 2a 32 be 7f c6 2f 3e c4 db 57 42 55 d8 5a a5 00 38 89 77 3f 3d e4 33 3d 52 28 32 be f3 c4 2f
+[2026-07-07 15:11:05.794] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.580, yaw_vel=1.469, pitch_vel=-0.010
+[2026-07-07 15:11:05.800] [warning] [Gimbal] Tail check failed: got [0xca 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.806] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.582, yaw_vel=0.676, pitch_vel=-0.132
+[2026-07-07 15:11:05.808] [warning] [Gimbal] Tail check failed: got [0xc7 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.814] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.580, yaw_vel=-1.400, pitch_vel=0.356
+[2026-07-07 15:11:05.820] [warning] [Gimbal] Tail check failed: got [0xca 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.826] [warning] [Gimbal] Data sanity check failed: yaw=54.009, pitch=-20.578, yaw_vel=-0.240, pitch_vel=1.210
+[2026-07-07 15:11:05.828] [warning] [Gimbal] Tail check failed: got [0xc9 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.834] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.582, yaw_vel=0.676, pitch_vel=0.112
+[2026-07-07 15:11:05.840] [warning] [Gimbal] Tail check failed: got [0xc6 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.846] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.581, yaw_vel=-0.179, pitch_vel=0.173
+[2026-07-07 15:11:05.848] [warning] [Gimbal] Tail check failed: got [0xc6 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.854] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.580, yaw_vel=-0.484, pitch_vel=0.295
+[2026-07-07 15:11:05.860] [warning] [Gimbal] Tail check failed: got [0xc3 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.866] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.582, yaw_vel=0.309, pitch_vel=-0.499
+[2026-07-07 15:11:05.869] [warning] [Gimbal] Tail check failed: got [0xc8 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.875] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.584, yaw_vel=0.431, pitch_vel=-0.804
+[2026-07-07 15:11:05.880] [warning] [Gimbal] Tail check failed: got [0xc9 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.886] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.583, yaw_vel=-0.057, pitch_vel=0.295
+[2026-07-07 15:11:05.889] [warning] [Gimbal] Tail check failed: got [0xc6 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.895] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.585, yaw_vel=0.554, pitch_vel=-0.743
+[2026-07-07 15:11:05.897] [warning] [Gimbal] Tail check failed: got [0xcb 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.906] [warning] [Gimbal] Data sanity check failed: yaw=54.009, pitch=-20.586, yaw_vel=0.004, pitch_vel=-0.010
+[2026-07-07 15:11:05.909] [warning] [Gimbal] Tail check failed: got [0xcc 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.915] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.583, yaw_vel=-0.545, pitch_vel=0.478
+[2026-07-07 15:11:05.918] [warning] [Gimbal] Tail check failed: got [0xcd 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.927] [warning] [Gimbal] Data sanity check failed: yaw=54.009, pitch=-20.581, yaw_vel=0.248, pitch_vel=0.844
+[2026-07-07 15:11:05.929] [warning] [Gimbal] Tail check failed: got [0xce 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.935] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.580, yaw_vel=0.187, pitch_vel=0.234
+[2026-07-07 15:11:05.938] [warning] [Gimbal] Tail check failed: got [0xcd 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.938] [info] [Gimbal] Flushed input buffer to resync
+[2026-07-07 15:11:05.944] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.582, yaw_vel=-0.118, pitch_vel=-1.048
+[2026-07-07 15:11:05.950] [warning] [Gimbal] Tail check failed: got [0xd4 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.955] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.579, yaw_vel=-0.606, pitch_vel=0.661
+[2026-07-07 15:11:05.958] [warning] [Gimbal] Tail check failed: got [0xcf 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.964] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.581, yaw_vel=0.004, pitch_vel=0.600
+[2026-07-07 15:11:05.970] [warning] [Gimbal] Tail check failed: got [0xd3 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.976] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.583, yaw_vel=1.225, pitch_vel=0.966
+[2026-07-07 15:11:05.978] [warning] [Gimbal] Tail check failed: got [0xd7 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.984] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.583, yaw_vel=0.004, pitch_vel=-1.292
+[2026-07-07 15:11:05.990] [warning] [Gimbal] Tail check failed: got [0xd9 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:05.996] [warning] [Gimbal] Data sanity check failed: yaw=54.009, pitch=-20.584, yaw_vel=-0.362, pitch_vel=0.051
+[2026-07-07 15:11:05.999] [warning] [Gimbal] Tail check failed: got [0xdc 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.004] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.585, yaw_vel=0.187, pitch_vel=-1.414
+[2026-07-07 15:11:06.010] [warning] [Gimbal] Tail check failed: got [0xd6 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.016] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.585, yaw_vel=-1.766, pitch_vel=-0.255
+[2026-07-07 15:11:06.018] [warning] [Gimbal] Tail check failed: got [0xd1 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.025] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.583, yaw_vel=0.126, pitch_vel=-0.132
+[2026-07-07 15:11:06.030] [warning] [Gimbal] Tail check failed: got [0xd0 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.036] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.585, yaw_vel=0.126, pitch_vel=-0.438
+[2026-07-07 15:11:06.039] [warning] [Gimbal] Tail check failed: got [0xce 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.045] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.585, yaw_vel=0.554, pitch_vel=-0.316
+[2026-07-07 15:11:06.050] [warning] [Gimbal] Tail check failed: got [0xd0 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.056] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.587, yaw_vel=0.187, pitch_vel=-0.316
+[2026-07-07 15:11:06.059] [warning] [Gimbal] Tail check failed: got [0xd5 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.065] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.588, yaw_vel=-0.789, pitch_vel=-0.071
+[2026-07-07 15:11:06.068] [warning] [Gimbal] Tail check failed: got [0xe0 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.076] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.587, yaw_vel=-0.423, pitch_vel=0.295
+[2026-07-07 15:11:06.079] [warning] [Gimbal] Tail check failed: got [0xe5 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.085] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.588, yaw_vel=0.798, pitch_vel=-0.682
+[2026-07-07 15:11:06.088] [warning] [Gimbal] Tail check failed: got [0xe5 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.097] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.588, yaw_vel=-0.362, pitch_vel=-0.987
+[2026-07-07 15:11:06.099] [warning] [Gimbal] Tail check failed: got [0xe8 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.105] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.588, yaw_vel=0.065, pitch_vel=-0.377
+[2026-07-07 15:11:06.108] [warning] [Gimbal] Tail check failed: got [0xe1 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.114] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.588, yaw_vel=0.248, pitch_vel=0.661
+[2026-07-07 15:11:06.120] [warning] [Gimbal] Tail check failed: got [0xe5 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.126] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.586, yaw_vel=0.004, pitch_vel=-0.194
+[2026-07-07 15:11:06.128] [warning] [Gimbal] Tail check failed: got [0xe8 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.134] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.584, yaw_vel=0.248, pitch_vel=0.295
+[2026-07-07 15:11:06.140] [warning] [Gimbal] Tail check failed: got [0xe8 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.140] [info] [Gimbal] Flushed input buffer to resync
+[2026-07-07 15:11:06.146] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.586, yaw_vel=0.309, pitch_vel=-0.132
+[2026-07-07 15:11:06.148] [warning] [Gimbal] Tail check failed: got [0xed 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.154] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.588, yaw_vel=0.309, pitch_vel=-0.132
+[2026-07-07 15:11:06.160] [warning] [Gimbal] Tail check failed: got [0xec 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.166] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.592, yaw_vel=0.126, pitch_vel=-0.132
+[2026-07-07 15:11:06.169] [warning] [Gimbal] Tail check failed: got [0xe8 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.175] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.592, yaw_vel=0.187, pitch_vel=0.112
+[2026-07-07 15:11:06.180] [warning] [Gimbal] Tail check failed: got [0xe7 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.186] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.592, yaw_vel=0.248, pitch_vel=0.905
+[2026-07-07 15:11:06.189] [warning] [Gimbal] Tail check failed: got [0xe6 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.195] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.590, yaw_vel=0.798, pitch_vel=0.722
+[2026-07-07 15:11:06.200] [warning] [Gimbal] Tail check failed: got [0xe9 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.206] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.588, yaw_vel=1.225, pitch_vel=0.417
+[2026-07-07 15:11:06.209] [warning] [Gimbal] Tail check failed: got [0xe6 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.215] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.591, yaw_vel=0.004, pitch_vel=-0.682
+[2026-07-07 15:11:06.217] [warning] [Gimbal] Tail check failed: got [0xec 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.226] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.594, yaw_vel=0.370, pitch_vel=-0.865
+[2026-07-07 15:11:06.229] [warning] [Gimbal] Tail check failed: got [0xe8 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.235] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.590, yaw_vel=-0.057, pitch_vel=-0.071
+[2026-07-07 15:11:06.238] [warning] [Gimbal] Tail check failed: got [0xdc 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.247] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.593, yaw_vel=0.004, pitch_vel=-0.377
+[2026-07-07 15:11:06.249] [warning] [Gimbal] Tail check failed: got [0xd3 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.255] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.595, yaw_vel=0.004, pitch_vel=0.539
+[2026-07-07 15:11:06.258] [warning] [Gimbal] Tail check failed: got [0xb6 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.264] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.599, yaw_vel=-0.789, pitch_vel=-0.560
+[2026-07-07 15:11:06.269] [warning] [Gimbal] Tail check failed: got [0x99 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.275] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.607, yaw_vel=-1.216, pitch_vel=0.295
+[2026-07-07 15:11:06.278] [warning] [Gimbal] Tail check failed: got [0x76 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.284] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.613, yaw_vel=-1.094, pitch_vel=-0.194
+[2026-07-07 15:11:06.290] [warning] [Gimbal] Tail check failed: got [0x75 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.296] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.614, yaw_vel=1.652, pitch_vel=-0.316
+[2026-07-07 15:11:06.298] [warning] [Gimbal] Tail check failed: got [0x70 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.304] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.623, yaw_vel=-0.545, pitch_vel=-0.194
+[2026-07-07 15:11:06.310] [warning] [Gimbal] Tail check failed: got [0x3e 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.316] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.639, yaw_vel=-0.850, pitch_vel=-2.330
+[2026-07-07 15:11:06.319] [warning] [Gimbal] Tail check failed: got [0x2d 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.324] [warning] [Gimbal] Data sanity check failed: yaw=53.965, pitch=-20.646, yaw_vel=0.981, pitch_vel=-1.292
+[2026-07-07 15:11:06.330] [warning] [Gimbal] Tail check failed: got [0x2f 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.336] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.666, yaw_vel=-0.972, pitch_vel=-2.147
+[2026-07-07 15:11:06.339] [warning] [Gimbal] Tail check failed: got [0x2e 0x3e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.339] [info] [Gimbal] Flushed input buffer to resync
+[2026-07-07 15:11:06.345] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.685, yaw_vel=-1.949, pitch_vel=0.356
+[2026-07-07 15:11:06.350] [warning] [Gimbal] Tail check failed: got [0x04 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.356] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.681, yaw_vel=0.798, pitch_vel=-0.194
+[2026-07-07 15:11:06.359] [warning] [Gimbal] Tail check failed: got [0x15 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.365] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.685, yaw_vel=-1.766, pitch_vel=-0.132
+[2026-07-07 15:11:06.368] [warning] [Gimbal] Tail check failed: got [0xff 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.376] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.680, yaw_vel=-0.423, pitch_vel=0.417
+[2026-07-07 15:11:06.379] [warning] [Gimbal] Tail check failed: got [0xfc 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.385] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.679, yaw_vel=1.469, pitch_vel=0.478
+[2026-07-07 15:11:06.388] [warning] [Gimbal] Tail check failed: got [0x04 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.397] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.685, yaw_vel=-1.766, pitch_vel=-0.132
+[2026-07-07 15:11:06.399] [warning] [Gimbal] Tail check failed: got [0xd8 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.405] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.690, yaw_vel=-2.376, pitch_vel=-0.499
+[2026-07-07 15:11:06.408] [warning] [Gimbal] Tail check failed: got [0xc1 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.414] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.686, yaw_vel=1.347, pitch_vel=-0.316
+[2026-07-07 15:11:06.420] [warning] [Gimbal] Tail check failed: got [0xe2 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.426] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.689, yaw_vel=0.920, pitch_vel=0.844
+[2026-07-07 15:11:06.428] [warning] [Gimbal] Tail check failed: got [0xe9 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.434] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.692, yaw_vel=-1.339, pitch_vel=0.844
+[2026-07-07 15:11:06.440] [warning] [Gimbal] Tail check failed: got [0xd2 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.446] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.689, yaw_vel=-0.362, pitch_vel=-0.316
+[2026-07-07 15:11:06.448] [warning] [Gimbal] Tail check failed: got [0xd9 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.454] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.689, yaw_vel=-0.911, pitch_vel=0.173
+[2026-07-07 15:11:06.460] [warning] [Gimbal] Tail check failed: got [0xd0 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.466] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.686, yaw_vel=-0.850, pitch_vel=0.600
+[2026-07-07 15:11:06.469] [warning] [Gimbal] Tail check failed: got [0xce 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.474] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.688, yaw_vel=0.309, pitch_vel=-1.292
+[2026-07-07 15:11:06.480] [warning] [Gimbal] Tail check failed: got [0xcd 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.486] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.688, yaw_vel=0.187, pitch_vel=-0.071
+[2026-07-07 15:11:06.488] [warning] [Gimbal] Tail check failed: got [0xd5 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.495] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.687, yaw_vel=-0.240, pitch_vel=0.356
+[2026-07-07 15:11:06.500] [warning] [Gimbal] Tail check failed: got [0xe2 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.506] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.691, yaw_vel=-0.728, pitch_vel=0.234
+[2026-07-07 15:11:06.509] [warning] [Gimbal] Tail check failed: got [0xca 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.515] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.689, yaw_vel=-1.949, pitch_vel=-0.377
+[2026-07-07 15:11:06.520] [warning] [Gimbal] Tail check failed: got [0xbf 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.526] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.687, yaw_vel=1.713, pitch_vel=-1.048
+[2026-07-07 15:11:06.529] [warning] [Gimbal] Tail check failed: got [0xd2 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.535] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.698, yaw_vel=0.859, pitch_vel=-1.658
+[2026-07-07 15:11:06.538] [warning] [Gimbal] Tail check failed: got [0xb9 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.538] [info] [Gimbal] Flushed input buffer to resync
+[2026-07-07 15:11:06.546] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.708, yaw_vel=-1.216, pitch_vel=-0.377
+[2026-07-07 15:11:06.549] [warning] [Gimbal] Tail check failed: got [0x9b 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.555] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.720, yaw_vel=-1.216, pitch_vel=-1.597
+[2026-07-07 15:11:06.558] [warning] [Gimbal] Tail check failed: got [0x8d 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.567] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.733, yaw_vel=0.370, pitch_vel=-1.170
+[2026-07-07 15:11:06.569] [warning] [Gimbal] Tail check failed: got [0x9a 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.575] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.740, yaw_vel=1.286, pitch_vel=0.356
+[2026-07-07 15:11:06.578] [warning] [Gimbal] Tail check failed: got [0xa6 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.584] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.742, yaw_vel=0.309, pitch_vel=1.027
+[2026-07-07 15:11:06.590] [warning] [Gimbal] Tail check failed: got [0x9a 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.595] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.742, yaw_vel=0.370, pitch_vel=0.356
+[2026-07-07 15:11:06.598] [warning] [Gimbal] Tail check failed: got [0x9a 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.604] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.742, yaw_vel=1.591, pitch_vel=-0.499
+[2026-07-07 15:11:06.610] [warning] [Gimbal] Tail check failed: got [0xaf 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.616] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.740, yaw_vel=-1.033, pitch_vel=1.393
+[2026-07-07 15:11:06.618] [warning] [Gimbal] Tail check failed: got [0xa9 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.624] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.737, yaw_vel=-0.484, pitch_vel=-0.132
+[2026-07-07 15:11:06.630] [warning] [Gimbal] Tail check failed: got [0xab 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.636] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.736, yaw_vel=0.737, pitch_vel=-0.194
+[2026-07-07 15:11:06.639] [warning] [Gimbal] Tail check failed: got [0xa9 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.644] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.737, yaw_vel=-0.118, pitch_vel=-0.377
+[2026-07-07 15:11:06.650] [warning] [Gimbal] Tail check failed: got [0xa2 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.656] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.736, yaw_vel=-0.179, pitch_vel=1.210
+[2026-07-07 15:11:06.659] [warning] [Gimbal] Tail check failed: got [0x94 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.665] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.737, yaw_vel=0.737, pitch_vel=-0.377
+[2026-07-07 15:11:06.670] [warning] [Gimbal] Tail check failed: got [0x9e 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.676] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.737, yaw_vel=0.431, pitch_vel=-1.170
+[2026-07-07 15:11:06.679] [warning] [Gimbal] Tail check failed: got [0xa1 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.685] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.740, yaw_vel=-0.606, pitch_vel=-0.499
+[2026-07-07 15:11:06.688] [warning] [Gimbal] Tail check failed: got [0xac 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.696] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.738, yaw_vel=-0.179, pitch_vel=0.295
+[2026-07-07 15:11:06.699] [warning] [Gimbal] Tail check failed: got [0xc9 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.705] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.739, yaw_vel=-0.118, pitch_vel=-0.255
+[2026-07-07 15:11:06.708] [warning] [Gimbal] Tail check failed: got [0xd1 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.717] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.737, yaw_vel=-0.423, pitch_vel=-0.438
+[2026-07-07 15:11:06.719] [warning] [Gimbal] Tail check failed: got [0xd8 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.725] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.734, yaw_vel=1.225, pitch_vel=-1.048
+[2026-07-07 15:11:06.728] [warning] [Gimbal] Tail check failed: got [0xf8 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.734] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.734, yaw_vel=2.018, pitch_vel=0.600
+[2026-07-07 15:11:06.739] [warning] [Gimbal] Tail check failed: got [0x05 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.739] [info] [Gimbal] Flushed input buffer to resync
+[2026-07-07 15:11:06.745] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.735, yaw_vel=-0.972, pitch_vel=0.173
+[2026-07-07 15:11:06.748] [warning] [Gimbal] Tail check failed: got [0xfb 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:06.748] [warning] [Gimbal] Too many consecutive errors (>100), attempting to reconnect...
+[2026-07-07 15:11:06.748] [warning] [Gimbal] Reconnecting serial, attempt 1/15...
+[2026-07-07 15:11:07.356] [info] [Gimbal] Reconnected serial successfully.
+[2026-07-07 15:11:07.363] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.718, yaw_vel=0.615, pitch_vel=-0.071
+[2026-07-07 15:11:07.366] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.718, yaw_vel=0.126, pitch_vel=0.051
+[2026-07-07 15:11:07.368] [warning] [Gimbal] Tail check failed: got [0x42 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:07.368] [warning] [Gimbal] Full buffer dump: 5a a5 00 2e 81 77 3f 8f 28 31 3d 0c 81 33 be 75 47 2f 3e c4 ae 57 42 55 58 5a a5 00 3c 81 77 3f de 47 31 3d e6 81 33 be eb 42 2f
+[2026-07-07 15:11:07.374] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.718, yaw_vel=0.554, pitch_vel=0.356
+[2026-07-07 15:11:07.380] [warning] [Gimbal] Tail check failed: got [0x41 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:07.380] [warning] [Gimbal] Full buffer dump: 5a a5 00 11 81 77 3f 26 22 31 3d fc 84 33 be dd 45 2f 3e c4 ae 57 42 0a 6b 5a a5 00 5c 81 77 3f 33 f7 30 3d d0 85 33 be 88 41 2f
+[2026-07-07 15:11:07.386] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.718, yaw_vel=-0.362, pitch_vel=-0.377
+[2026-07-07 15:11:07.389] [warning] [Gimbal] Tail check failed: got [0x30 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:07.389] [warning] [Gimbal] Full buffer dump: 5a a5 00 1c 82 77 3f f0 c5 30 3d 3c 85 33 be b9 33 2f 3e c4 ae 57 42 55 d8 5a a5 00 3c 82 77 3f 2c bb 30 3d 87 86 33 be 19 30 2f
+[2026-07-07 15:11:07.395] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.718, yaw_vel=-0.972, pitch_vel=-0.132
+[2026-07-07 15:11:07.400] [warning] [Gimbal] Tail check failed: got [0x17 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:07.400] [warning] [Gimbal] Full buffer dump: 5a a5 00 31 83 77 3f bf e3 2f 3d e1 93 33 be 45 1b 2f 3e c4 ae 57 42 d6 d3 5a a5 00 64 83 77 3f 0c c7 2f 3d 90 94 33 be df 17 2f
+[2026-07-07 15:11:07.406] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.721, yaw_vel=-0.850, pitch_vel=-0.682
+[2026-07-07 15:11:07.409] [warning] [Gimbal] Tail check failed: got [0x11 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:07.415] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.724, yaw_vel=-0.667, pitch_vel=-0.743
+[2026-07-07 15:11:07.420] [warning] [Gimbal] Tail check failed: got [0x02 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:07.426] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.726, yaw_vel=-0.179, pitch_vel=-0.865
+[2026-07-07 15:11:07.429] [warning] [Gimbal] Tail check failed: got [0xfe 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:07.435] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.724, yaw_vel=0.737, pitch_vel=1.027
+[2026-07-07 15:11:07.437] [warning] [Gimbal] Tail check failed: got [0x06 0x2f], expected [0x7f 0xfe]
+[2026-07-07 15:11:07.446] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.724, yaw_vel=-0.423, pitch_vel=0.356
+[2026-07-07 15:11:07.449] [warning] [Gimbal] Tail check failed: got [0xfd 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:07.455] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.722, yaw_vel=-0.850, pitch_vel=-1.658
+[2026-07-07 15:11:07.458] [warning] [Gimbal] Tail check failed: got [0xf6 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:07.466] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.725, yaw_vel=-0.179, pitch_vel=-0.499
+[2026-07-07 15:11:07.469] [warning] [Gimbal] Tail check failed: got [0xf4 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:07.475] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.727, yaw_vel=0.981, pitch_vel=0.356
+[2026-07-07 15:11:07.478] [warning] [Gimbal] Tail check failed: got [0xf2 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:07.484] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.729, yaw_vel=-0.545, pitch_vel=-0.438
+[2026-07-07 15:11:07.489] [warning] [Gimbal] Tail check failed: got [0xf2 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:07.495] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.728, yaw_vel=0.187, pitch_vel=-0.316
+[2026-07-07 15:11:07.498] [warning] [Gimbal] Tail check failed: got [0xee 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:07.504] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.727, yaw_vel=0.859, pitch_vel=0.417
+[2026-07-07 15:11:07.510] [warning] [Gimbal] Tail check failed: got [0xee 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:07.515] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.730, yaw_vel=0.493, pitch_vel=-0.560
+[2026-07-07 15:11:07.518] [warning] [Gimbal] Tail check failed: got [0xcc 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:07.524] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.734, yaw_vel=-0.728, pitch_vel=0.539
+[2026-07-07 15:11:07.530] [warning] [Gimbal] Tail check failed: got [0xd1 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:07.536] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.733, yaw_vel=1.042, pitch_vel=-0.071
+[2026-07-07 15:11:07.538] [warning] [Gimbal] Tail check failed: got [0xee 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:07.544] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.738, yaw_vel=-0.850, pitch_vel=0.173
+[2026-07-07 15:11:07.550] [warning] [Gimbal] Tail check failed: got [0xdb 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:07.550] [info] [Gimbal] Flushed input buffer to resync
+[2026-07-07 15:11:07.556] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.734, yaw_vel=-1.461, pitch_vel=0.783
+[2026-07-07 15:11:07.558] [warning] [Gimbal] Tail check failed: got [0xc5 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:07.565] [warning] [Gimbal] Data sanity check failed: yaw=53.877, pitch=-20.727, yaw_vel=0.615, pitch_vel=-1.231
+[2026-07-07 15:11:07.570] [warning] [Gimbal] Tail check failed: got [0xdd 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:07.576] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.731, yaw_vel=0.187, pitch_vel=0.234
+[2026-07-07 15:11:07.579] [warning] [Gimbal] Tail check failed: got [0xdb 0x2e], expected [0x7f 0xfe]
+[2026-07-07 15:11:07.585] [warning] [Gimbal] Data sanity check failed: yaw=53.921, pitch=-20.732, yaw_vel=-0.301, pitch_vel=0.051
+[2026-07-07 15:11:07.590] [warning] [Gimbal] Tail check failed: got [0xd4 0x2e], expected [0x7f 0xfe]

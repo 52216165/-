@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect width="100%" height="100%" fill="white"/>
+<rect x="200.0" y="40.0" width="80.0" height="80.0" fill="black"/>
+<rect x="360.0" y="40.0" width="80.0" height="80.0" fill="black"/>
+<rect x="520.0" y="40.0" width="80.0" height="80.0" fill="black"/>
+<rect x="680.0" y="40.0" width="80.0" height="80.0" fill="black"/>
+<rect x="840.0" y="40.0" width="80.0" height="80.0" fill="black"/>
+<rect x="1000.0" y="40.0" width="80.0" height="80.0" fill="black"/>
+<rect x="280.0" y="120.0" width="80.0" height="80.0" fill="black"/>
+<rect x="440.0" y="120.0" width="80.0" height="80.0" fill="black"/>
+<rect x="600.0" y="120.0" width="80.0" height="80.0" fill="black"/>
+<rect x="760.0" y="120.0" width="80.0" height="80.0" fill="black"/>
+<rect x="920.0" y="120.0" width="80.0" height="80.0" fill="black"/>
+<rect x="200.0" y="200.0" width="80.0" height="80.0" fill="black"/>
+<rect x="360.0" y="200.0" width="80.0" height="80.0" fill="black"/>
+<rect x="520.0" y="200.0" width="80.0" height="80.0" fill="black"/>
+<rect x="680.0" y="200.0" width="80.0" height="80.0" fill="black"/>
+<rect x="840.0" y="200.0" width="80.0" height="80.0" fill="black"/>
+<rect x="1000.0" y="200.0" width="80.0" height="80.0" fill="black"/>
+<rect x="280.0" y="280.0" width="80.0" height="80.0" fill="black"/>
+<rect x="440.0" y="280.0" width="80.0" height="80.0" fill="black"/>
+<rect x="600.0" y="280.0" width="80.0" height="80.0" fill="black"/>
+<rect x="760.0" y="280.0" width="80.0" height="80.0" fill="black"/>
+<rect x="920.0" y="280.0" width="80.0" height="80.0" fill="black"/>
+<rect x="200.0" y="360.0" width="80.0" height="80.0" fill="black"/>
+<rect x="360.0" y="360.0" width="80.0" height="80.0" fill="black"/>
+<rect x="520.0" y="360.0" width="80.0" height="80.0" fill="black"/>
+<rect x="680.0" y="360.0" width="80.0" height="80.0" fill="black"/>
+<rect x="840.0" y="360.0" width="80.0" height="80.0" fill="black"/>
+<rect x="1000.0" y="360.0" width="80.0" height="80.0" fill="black"/>
+<rect x="280.0" y="440.0" width="80.0" height="80.0" fill="black"/>
+<rect x="440.0" y="440.0" width="80.0" height="80.0" fill="black"/>
+<rect x="600.0" y="440.0" width="80.0" height="80.0" fill="black"/>
+<rect x="760.0" y="440.0" width="80.0" height="80.0" fill="black"/>
+<rect x="920.0" y="440.0" width="80.0" height="80.0" fill="black"/>
+<rect x="200.0" y="520.0" width="80.0" height="80.0" fill="black"/>
+<rect x="360.0" y="520.0" width="80.0" height="80.0" fill="black"/>
+<rect x="520.0" y="520.0" width="80.0" height="80.0" fill="black"/>
+<rect x="680.0" y="520.0" width="80.0" height="80.0" fill="black"/>
+<rect x="840.0" y="520.0" width="80.0" height="80.0" fill="black"/>
+<rect x="1000.0" y="520.0" width="80.0" height="80.0" fill="black"/>
+<rect x="280.0" y="600.0" width="80.0" height="80.0" fill="black"/>
+<rect x="440.0" y="600.0" width="80.0" height="80.0" fill="black"/>
+<rect x="600.0" y="600.0" width="80.0" height="80.0" fill="black"/>
+<rect x="760.0" y="600.0" width="80.0" height="80.0" fill="black"/>
+<rect x="920.0" y="600.0" width="80.0" height="80.0" fill="black"/>
+<text x="640" y="710" font-size="16" text-anchor="middle" fill="gray">11x8 — 全屏显示后拍照</text>
+</svg>

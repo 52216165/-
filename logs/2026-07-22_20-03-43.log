@@ -1,0 +1,20 @@
+[2026-07-22 20:03:43.452] [info] [DesktopGimbal] Opening gimbal serial...
+[2026-07-22 20:03:43.452] [warning] [Gimbal] Configured com_port '/dev/gimbal' not found, fallback to '/dev/ttyUSB0'.
+[2026-07-22 20:03:43.553] [info] [Gimbal] read_thread started.
+[2026-07-22 20:03:43.553] [warning] [Gimbal] Tail check failed: got [0xfd 0x75], expected [0x7f 0xfe]
+[2026-07-22 20:03:43.553] [warning] [Gimbal] Full buffer dump: 5a a5 00 ce 0a 78 3f d2 61 0b bc 11 dc f2 3b b2 fc 75 3e aa 2b 71 c1 f6 44 5a a5 00 c0 0a 78 3f 0a 5c 0b bc 04 7d f2 3b d1 fd 75
+[2026-07-22 20:03:43.553] [warning] [Gimbal] Data sanity check failed: yaw=-15.073, pitch=1.056, yaw_vel=-1.155, pitch_vel=0.600
+[2026-07-22 20:03:43.553] [warning] [Gimbal] Tail check failed: got [0xfa 0x75], expected [0x7f 0xfe]
+[2026-07-22 20:03:43.553] [warning] [Gimbal] Full buffer dump: 5a a5 00 d8 0a 78 3f 21 61 0b bc 6e 7e f2 3b 37 fc 75 3e aa 2b 71 c1 15 f6 5a a5 00 ed 0a 78 3f 44 63 0b bc 21 53 f2 3b d7 fa 75
+[2026-07-22 20:03:43.553] [warning] [Gimbal] Data sanity check failed: yaw=-15.117, pitch=1.057, yaw_vel=0.065, pitch_vel=1.271
+[2026-07-22 20:03:43.553] [warning] [Gimbal] Tail check failed: got [0xf3 0x75], expected [0x7f 0xfe]
+[2026-07-22 20:03:43.553] [warning] [Gimbal] Full buffer dump: 5a a5 00 39 0b 78 3f 6d 2a 0b bc 4a 3c f2 3b 2d f6 75 3e aa 2b 71 c1 d6 53 5a a5 00 63 0b 78 3f ed 4f 0b bc 26 2d f2 3b a1 f3 75
+[2026-07-22 20:03:43.553] [warning] [Gimbal] Data sanity check failed: yaw=-15.073, pitch=1.056, yaw_vel=0.126, pitch_vel=0.295
+[2026-07-22 20:03:43.553] [warning] [Gimbal] Tail check failed: got [0xf6 0x75], expected [0x7f 0xfe]
+[2026-07-22 20:03:43.553] [warning] [Gimbal] Full buffer dump: 5a a5 00 01 0b 78 3f b9 26 0b bc 88 d8 f2 3b 8e f9 75 3e aa df 71 c1 0c 5b 5a a5 00 2f 0b 78 3f 2b 05 0b bc a2 d2 f2 3b b5 f6 75
+[2026-07-22 20:03:43.553] [warning] [Gimbal] Data sanity check failed: yaw=-15.073, pitch=1.056, yaw_vel=1.286, pitch_vel=-0.010
+[2026-07-22 20:03:43.553] [warning] [Gimbal] Tail check failed: got [0xf0 0x75], expected [0x7f 0xfe]
+[2026-07-22 20:03:43.553] [warning] [Gimbal] Full buffer dump: 5a a5 00 71 0b 78 3f 2f 02 0b bc f0 f5 f2 3b aa f2 75 3e aa 2b 71 c1 7b e2 5a a5 00 8f 0b 78 3f d1 06 0b bc c8 23 f3 3b e4 f0 75
+[2026-07-22 20:03:43.553] [warning] [Gimbal] Data sanity check failed: yaw=-15.073, pitch=1.058, yaw_vel=0.431, pitch_vel=0.417
+[2026-07-22 20:03:43.553] [warning] [Gimbal] Tail check failed: got [0xea 0x75], expected [0x7f 0xfe]
+[2026-07-22 20:03:43.553] [warning] [Gimbal] Data sanity check failed: yaw=-15.117, pitch=1.056, yaw_vel=0.737, pitch_vel=-0.255
